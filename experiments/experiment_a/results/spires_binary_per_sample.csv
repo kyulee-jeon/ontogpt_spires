@@ -1,0 +1,286 @@
+﻿local_name,has_loinc,label_binary,pred_binary,sample_correct,gold_modality,spires_modality,match_modality,gold_anatomy_focus,spires_anatomy_focus,match_anatomy_focus,gold_anatomy_region,spires_anatomy_region,match_anatomy_region,gold_laterality,spires_laterality,match_laterality,gold_contrast,spires_contrast,match_contrast,gold_view,spires_view,match_view,gold_guidance_action,spires_guidance_action,match_guidance_action,gold_guidance_object,spires_guidance_object,match_guidance_object,gold_timing,spires_timing,match_timing,gold_reason,spires_reason,match_reason
+1 Level bilateral Transforaminal epidural injection -Cervical,False,0,1,0,,,1,,cervical,0,,neck,0,,bilateral,0,,,1,,,1,,injection,0,,,1,,,1,,,1
+Foot & Ankle Rt Lat (DF),True,1,1,0,XR,,0,ankle,ankle,1,lower extremity,lower extremity,1,right,right,1,WO,WO,1,Views,Lateral,0,,,1,,,1,,,1,,,1
+Reposition of Ureter stent Lt (INT),True,1,1,0,,,1,ureter,ureter,1,abdomen,abdomen,1,unspecified,left,0,W,,0,,,1,placement,reposition,0,stent,stent,1,,,1,,,1
+MRI Thyroid (contrast),True,1,1,0,MR,MR,1,thyroid gland,thyroid gland,1,neck,neck,1,,,1,WO,W,0,,,1,,,1,,,1,,,1,,,1
+MRI-Brain-SVD (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Femur Both Lat,True,1,1,0,XR,,0,femur,femur,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,view,Lateral,0,,,1,,,1,,,1,,,1
+"Myelo-(C+T,T+L)(Musculoskeletal)",True,1,1,0,CT,,0,spine.cervical,,0,neck,musculoskeletal,0,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+SONO Research Gun Biopsy - Breast,True,1,1,0,US,US,1,,breast,0,breast,,0,unspecified,,0,WO,,0,,,1,biopsy,biopsy,1,,,1,,,1,,,1
+CT Angio + 3D Pulmonary artery (thoracoabdominal PPVI)(contrast)-(소아),True,1,1,0,CT,CTA,0,chest vessels,pulmonary artery,0,chest,thoracoabdominal,0,,unspecified,0,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+Ped MRI Growth Plate (noncontrast),True,1,1,0,MR,MR,1,,growth plate,0,,unspecified,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Defecography,True,1,1,0,RF,,0,rectum,,0,pelvis,,0,,,1,W,,0,view,,0,,,1,,,1,,,1,,,1
+PCN tube reposition Rt,False,0,1,0,,,1,,,1,,,1,,right,0,,,1,,,1,,reposition,0,,tube,0,,,1,,,1
+Chest Lt Lat,False,0,1,0,,,1,,,1,,chest,0,,left,0,,,1,,Lateral,0,,,1,,,1,,,1,,,1
+CT Research PRISM study (noncontrast),True,1,1,0,CT,CT,1,,,1,,,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Brain Navigation (contrast) (SEEG),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,W,W,1,,,1,stereotactic localization,,0,,,1,w,,0,,,1
+CT Rt Lower leg Trauma + 3D (contrast),True,1,1,0,CT,CT,1,lower leg,lower leg,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,3D,0,,,1,,,1,w,,0,,trauma,0
+CT Hip Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,hip,hip,1,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+Mammography Lt -SONO Localization 용,True,1,1,0,MG,MG,1,,breast,0,breast,,0,left,left,1,WO,,0,,,1,localization,localization,1,,,1,,,1,,,1
+Angioplasty : other central veins,False,0,1,0,,,1,,,1,,,1,,,1,,,1,,,1,,angioplasty,0,,central veins,0,,,1,,,1
+PM(PET/MRI)-Chest wall (contrast)MRI,True,1,1,0,MR,PET,0,,chest wall,0,chest,chest,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Ped MRI Brain routine (T2 thin section) (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,T2 thin section,0,,,1,,,1,wo,,0,,,1
+CT (Metal) Lt Ankle Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,ankle,ankle,1,lower extremity,lower extremity,1,left,left,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+Shoulder Both AP,True,1,1,0,XR,,0,shoulder,shoulder,1,upper extremity,upper extremity,1,bilateral,bilateral,1,WO,,0,view; ap,AP,0,,,1,,,1,,,1,,,1
+CT Lower Extremity alignment+3D (noncontrast),True,1,1,0,CT,CT,1,,lower extremity,0,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Femur Rt (B)Obl(2매),True,1,1,0,XR,,0,knee,femur,0,lower extremity,lower extremity,1,right,right,1,WO,,0,views 2; oblique,Oblique,0,,,1,,,1,,,1,,,1
+PET/MR Research Brain-RBD-JKY,True,1,1,0,MR,PET,0,brain,brain,1,head,head,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Ped CT Chest Hemoptysis (contrast),True,1,1,0,CT,CT,1,,lung,0,chest,chest,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,hemoptysis,0
+Hip Cross table Lat Both,True,1,1,0,XR,,0,hip,hip,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,view; lateral crosstable,crosstable lateral,0,,,1,,,1,,,1,,,1
+Ped MRI Knee Patellar Dislocation (noncontrast),True,1,1,0,MR,MR,1,knee,knee,1,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,patellar dislocation,0
+MRI Brain-RLS (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+SONO Gun Biopsy - Head/Face (2 site),True,1,1,0,US,US,1,,,1,,head,0,,unspecified,0,WO,WO,1,,2 views,0,biopsy,biopsy,1,,,1,,,1,,,1
+Ped MRI IAC (contrast),True,1,1,0,MR,MR,1,skull.base,,0,head,,0,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Toe Rt AP,True,1,1,0,XR,,0,toes,toe,0,lower extremity,lower extremity,1,right,right,1,WO,WO,1,Views,AP,0,,,1,,,1,,,1,,,1
+MRI Brain GK-FSRS (contrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+CT (Metal) Rt Thigh Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,,femur,0,lower extremity,lower extremity,1,right,right,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+MRI Research-KJW (cap),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Wrist Lt (B)Obl(2회),True,1,1,0,XR,,0,wrist,wrist,1,upper extremity,upper extremity,1,left,left,1,WO,,0,views 2,Oblique,0,,,1,,,1,,,1,,,1
+PM(PET/MRI)-Methionine 2nd MRI Glioma PM(PET/MRI) (contrast),True,1,1,0,MR,PET,0,brain,glioma,0,head,brain,0,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Lt Ankle (noncontrast),True,1,1,0,MR,MR,1,ankle,ankle,1,lower extremity,lower extremity,1,left,left,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+CT (Metal) Rt Foot Trauma + 3D (contrast),True,1,1,0,CT,CT,1,foot,foot,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,3D,0,,,1,,,1,w,,0,,trauma,0
+Elbow Rt AP,True,1,1,0,XR,,0,elbow,elbow,1,upper extremity,upper extremity,1,right,right,1,WO,,0,view; ap,AP,0,,,1,,,1,,,1,,,1
+Teleradiogram Lt Lat (Lower Ext),False,0,1,0,,,1,,lower extremity,0,,lower extremity,0,,left,0,,,1,,Lateral,0,,,1,,,1,,,1,,,1
+Toe Rt (B)Obl,True,1,1,0,XR,,0,toes,toe,0,lower extremity,lower extremity,1,bilateral,right,0,WO,,0,Views,Oblique,0,,,1,,,1,,,1,,,1
+PM(PET/MRI)-Liver(Stomach cancer)+Pelvis (contrast )(Gadovis,True,1,1,0,MR,PET,0,,liver,0,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,stomach cancer,0
+SONO Obstetric (Radiology) -태아정밀(Anomaly) (twin)-1st trimester,True,1,1,0,US,US,1,,fetus,0,pelvis,abdomen,0,,unspecified,0,W,,0,,,1,,,1,,,1,,,1,first trimester,,0
+PM(PET/MRI)-Brain GKNP (contrast) MRI,True,1,1,0,MR,PET,0,brain,brain,1,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+PM(PET/MRI)-Pancreas Biliary DOTA-TOC (contrast) MRI,True,1,1,0,MR,PET,0,pancreas,pancreas,1,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+CT Rt Thigh + 3D (contrast),True,1,1,0,CT,CT,1,femur,femur,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+SONO RFA MSK (1st),True,1,1,0,US,US,1,,,1,,musculoskeletal,0,,,1,WO,,0,,,1,ablation,,0,tissue,,0,,,1,,,1
+MRI Research - Perfusion(CWS),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Ped MRI Extended LS-spine (noncontrast),True,1,1,0,MR,MR,1,spine.lumbar,spine,0,abdomen,lower extremity,0,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Foot & Ankle Rt Lat (PF),True,1,1,0,XR,,0,ankle,foot,0,lower extremity,lower extremity,1,right,right,1,WO,,0,views; lateral,Lateral,0,,,1,,,1,,,1,,,1
+MRI Research-SJJ(TN),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Both Subclavian arteriography (INT),True,1,1,0,RF,NM,0,upper extremity arteries,subclavian artery,0,upper extremity,upper extremity,1,bilateral,bilateral,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+MRI Brain Epilepsy post op (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,postoperative,,0,,,1,,,1,,post-contrast,0,,epilepsy,0
+(외부)MRI-Knee,True,1,1,0,MR,MR,1,knee,knee,1,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+(HPC) Chest Both Lat,False,0,1,0,,,1,,,1,,chest,0,,bilateral,0,,,1,,Lateral,0,,,1,,,1,,,1,,,1
+Hip AP (Push),True,1,1,0,XR,,0,hip,hip,1,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,,0,view; ap,AP,0,,,1,,,1,,,1,,,1
+Infantogram,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+MRI Brain Stereotaxic (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,stereotactic localization,,0,,,1,wo,,0,,,1
+Knee Both AP(supine)(1매),True,1,1,0,XR,,0,knee,knee,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,WO,1,view; ap,AP,0,,,1,,,1,,,1,,,1
+Reposition of Ureter stent Rt (INT),True,1,1,0,,,1,ureter,ureter,1,abdomen,abdomen,1,unspecified,right,0,W,,0,,,1,placement,reposition,0,stent,stent,1,,,1,,,1
+Gastrojejunostomy tube check,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+MRI Brain Parkinson(noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Brain MRA (Aneurysm) (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Elbow Lt AP,True,1,1,0,XR,,0,elbow,elbow,1,upper extremity,upper extremity,1,left,left,1,WO,WO,1,view; ap,AP,0,,,1,,,1,,,1,,,1
+Ped CT Research Whole Body - CTJ,True,1,1,0,CT,CT,1,,,1,whole body,whole body,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+1 Level single Medial branch block ; MBB,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+SONO Elbow Rt(팔꿈치관절 편측),True,1,1,0,,US,0,,elbow,0,,upper extremity,0,,right,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Rotation study(Tiba)+3D (noncontrast)(소아),True,1,1,0,CT,CT,1,,,1,lower extremity,,0,unspecified,,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Hip Both Lat,True,1,1,0,XR,,0,hip,hip,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,view,Lateral,0,,,1,,,1,,,1,,,1
+Vascular stents : aorta a. (MFM),False,0,1,0,,,1,,aorta,0,,abdomen,0,,,1,,,1,,,1,,placement,0,,stent,0,,,1,,,1
+MRI Cardiac - Congenital (Cine+VENC+DE) (contrast),True,1,1,0,MR,MR,1,heart,heart,1,chest,chest,1,,unspecified,0,W,W,1,,Cine+VENC+DE,0,,,1,,,1,w,,0,,,1
+Chest Lt Decubitus,False,0,1,0,,,1,,,1,,chest,0,,left,0,,,1,,Decubitus,0,,,1,,,1,,,1,,,1
+MRI RT Plan Abdomen (non contrast),True,1,1,0,MR,MR,1,,abdomen,0,abdomen,abdomen,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+SBS (3개월 미만 소아),False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+SONO Chest Diagnostic (Portable),True,1,1,0,US,US,1,,,1,chest,chest,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+Gastrojejunostomy tube reposition,True,1,1,0,,,1,,,1,,,1,,,1,W,,0,,,1,,,1,,,1,,,1,,,1
+MRI Rectum+Abdomen (contrast),True,1,1,0,MR,MR,1,,rectum,0,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Renal Cyst Aspiration (INT),True,1,1,0,US,,0,kidney,kidney,1,abdomen,abdomen,1,unspecified,unspecified,1,WO,WO,1,,,1,aspiration,aspiration,1,,cyst,0,,,1,cyst,,0
+Knee Both (B)Obl,True,1,1,0,XR,,0,knee,knee,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,views; oblique,Oblique,0,,,1,,,1,,,1,,,1
+SONO-GUIDED PROCEDURE III (PED),False,0,1,0,,US,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+Teleradiogram (Upper Ext),True,1,1,0,XR,,0,,,1,upper extremity,upper extremity,1,unspecified,,0,WO,,0,Views,,0,,,1,,,1,,,1,,,1
+Ped MRI Research Body - KHJ,True,1,1,0,MR,MR,1,,,1,whole body,whole body,1,,unspecified,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+Chest GJM Research,True,1,1,0,CT,,0,,,1,chest,chest,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+SONO Needle Aspiration - Head/Face (3 site 이상),True,1,1,0,US,US,1,,,1,,head,0,,unspecified,0,WO,WO,1,,,1,aspiration,aspiration,1,fluid,needle,0,,,1,,,1
+MRI Brain Arteriography + CE- MRA (contrast),True,1,1,0,MR,MR,1,head vessels,brain,0,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI C-spine:non-HIVD (noncontrast),True,1,1,0,MR,MR,1,spine.cervical,spine,0,neck,neck,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+(외부)PM(PET/MRI)-MRI-Pelvis(GU),True,1,1,0,MR,PET,0,,pelvis,0,pelvis,abdomen,0,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Femur Lt (B)Obl(2매),True,1,1,0,XR,,0,femur,femur,1,lower extremity,lower extremity,1,left,left,1,WO,,0,views 2,Oblique,0,,,1,,,1,,,1,,,1
+CT (Robot) Lower Extremity alignment + 3D (noncontrast),True,1,1,0,CT,CT,1,,lower extremity,0,lower extremity,lower extremity,1,unspecified,,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+CT (Metal) Lt Foot + 3D (noncontrast),True,1,1,0,CT,CT,1,foot,foot,1,lower extremity,lower extremity,1,left,left,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Ped CT Chest (noncontrast),True,1,1,0,CT,CT,1,,chest,0,chest,chest,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Brain (IICP) (contrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,iicp,0
+Knee Both Ant.draw,True,1,1,0,XR,,0,knee,knee,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,views 1 or 2,,0,,,1,,,1,,,1,,,1
+MRI Brain FU Acute Stroke (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,fu,0,,acute stroke,0
+Ped MRI Anorectum (contrast),True,1,1,0,MR,MR,1,,anorectum,0,abdomen,pelvis,0,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+T-M Joint,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+Intercostal arteriography 5-10vessels(Lt),False,0,1,0,,,1,,intercostal artery,0,,chest,0,,left,0,,,1,,5-10 views,0,,,1,,,1,,,1,,,1
+CT-Guided Biopsy (Upper Ex.) (noncontrast),True,1,1,1,CT,CT,1,,,1,upper extremity,upper extremity,1,unspecified,unspecified,1,WO,WO,1,,,1,biopsy,biopsy,1,,,1,,,1,,,1
+Ped CT Nasal bone + 3D (noncontrast),True,1,1,0,CT,CT,1,facial bones,nasal bone,0,head,head,1,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Ped MRI Research Heart,True,1,1,0,MR,MR,1,heart,heart,1,chest,chest,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Foot Rt Lat,True,1,1,0,XR,,0,foot,foot,1,lower extremity,lower extremity,1,right,right,1,WO,,0,view; lateral,Lateral,0,,,1,,,1,,,1,,,1
+T-spine Lat(neut),True,1,1,0,XR,,0,spine.thoracic,spine,0,chest,spine,0,,unspecified,0,WO,,0,view; lateral,Lateral,0,,,1,,,1,,,1,,,1
+MRI Extended T-Spine: non-HIVD (noncontrast),True,1,1,0,MR,MR,1,spine.thoracic,spine,0,chest,thoracic spine,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Research_parkinsonism,True,1,1,0,MR,MR,1,brain,,0,head,,0,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Liver+Pelvis 3D (contrast),True,1,1,0,CT,CT,1,,liver,0,abdomen,abdomen,1,,,1,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+SONO RFA GU (개복술하): 신장암 - Multiple tumors,True,1,1,0,US,US,1,kidney,kidney,1,abdomen,abdomen,1,unspecified,,0,WO,,0,,,1,ablation,rfa,0,tissue,tumors,0,,,1,,kidney cancer,0
+3 Levels single Transforaminal epidural injection -Lumbar,True,1,1,0,RF,,0,spine.lumbar,lumbar,0,abdomen,spine,0,,unspecified,0,WO,WO,1,,,1,injection,injection,1,,,1,,,1,,,1
+CT C-Spine + 3D (noncontrast),True,1,1,0,CT,CT,1,spine.cervical,spine,0,neck,neck,1,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Intervention Chest PCD tube check,True,1,1,0,RF,,0,,,1,chest,chest,1,,,1,W,,0,,,1,placement,,0,tube,,0,,,1,,,1
+CVC Non-Tunnel method with fluoroscopy,True,1,1,0,RF,RF,1,,,1,,,1,,,1,W,,0,,,1,placement,,0,catheter,,0,,,1,,,1
+Angioplasty : Rt subclavian v.,False,0,1,0,,,1,,subclavian vein,0,,neck,0,,right,0,,,1,,,1,,angioplasty,0,,,1,,,1,,,1
+Sup. Rt.Venacavography,True,1,1,0,RF,,0,vein,,0,xxx,,0,right,right,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+CT Coronary Artery Calcium Scoring (noncontrast),True,1,1,0,CT,CT,1,heart,coronary artery,0,chest,heart,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,,,1,calcium score,,0
+(외부)MRI-Ankle,True,1,1,0,MR,MR,1,ankle,ankle,1,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Knee Lt Lat(60oF),True,1,1,0,XR,,0,knee,knee,1,lower extremity,lower extremity,1,left,left,1,WO,,0,view; lateral,Lateral,0,,,1,,,1,,,1,,,1
+SONO Doppler LE vein (Varicose) Rt,True,1,1,0,US,US,1,lower extremity vein,vein,0,lower extremity,lower extremity,1,right,right,1,WO,,0,,,1,,,1,,,1,,,1,,varicose,0
+SONO Needle Aspiration - Head/Face,True,1,1,0,US,US,1,,,1,,head,0,,unspecified,0,WO,WO,1,,,1,aspiration,aspiration,1,fluid,needle,0,,,1,,,1
+Ped CT Brain (contrast),True,1,1,0,CT,CT,1,,brain,0,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI RT Plan Prostate (non contrast),True,1,1,0,MR,MR,1,prostate,prostate,1,pelvis,pelvis,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Rt. Pulmonary arteriography,True,1,1,0,RF,NM,0,pulmonary arteries,pulmonary artery,0,chest,chest,1,right,right,1,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+CT Chest Low Dose + 3D (Prone) (noncontrast),True,1,1,0,CT,CT,1,,lung,0,chest,chest,1,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Abdominal aortography,True,1,1,0,RF,,0,aorta.abdominal,aorta,0,abdomen,abdomen,1,,unspecified,0,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+Ped MRI Liver Mass (contrast),True,1,1,0,MR,MR,1,liver,liver,1,abdomen,abdomen,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+PCN tube reposition Rt (INT),True,1,1,0,US,,0,kidney,,0,abdomen,,0,right,right,1,WO,,0,,,1,drainage; placement,reposition,0,drainage catheter,tube,0,,,1,,,1
+MRI NP-Dementia Brain+DTI(DWI)+MRA(Intra+Caro) (noncontrast),True,1,1,1,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+Bone age,True,1,1,0,XR,,0,bone,,0,xxx,,0,,,1,WO,,0,Views,,0,,,1,,,1,,,1,bone age,,0
+MRI RT Plan Upper Extremity (non contrast),True,1,1,0,MR,MR,1,,upper extremity,0,upper extremity,upper extremity,1,unspecified,right,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Research Spleen volume INCB,True,1,1,0,MR,MR,1,spleen,spleen,1,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI PNS oropharynx_flap (noncontrast),True,1,1,0,MR,MR,1,oropharynx,oropharynx,1,head,head,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+SONO Research Doppler - KHJ (소아),True,1,1,0,US,US,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI Lt Foot (종양) (contrast),True,1,1,0,MR,MR,1,foot,foot,1,lower extremity,lower extremity,1,left,left,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Ped MRI Brain Tumor DTI (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI IAC cochlear implant (noncontrast),True,1,1,0,MR,MR,1,internal auditory canal,cochlea,0,head,head,1,unspecified,unspecified,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Urography (contrast),True,1,1,0,MR,MR,1,,kidney,0,abdomen,abdomen,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+(외부)CT-Spine,False,0,1,0,,CT,0,,spine,0,,spine,0,,unspecified,0,,,1,,,1,,,1,,,1,,,1,,,1
+MRI Lt Lower leg (noncontrast),True,1,1,0,MR,MR,1,lower leg,lower leg,1,lower extremity,lower extremity,1,left,left,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+SONO Foot Rt(족부관절 편측),True,1,1,0,,US,0,,foot,0,,lower extremity,0,,right,0,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+Hand Both PA (PED 0-24mo),True,1,1,0,XR,,0,hand,hand,1,upper extremity,upper extremity,1,bilateral,bilateral,1,WO,,0,view; pa,PA,0,,,1,,,1,,,1,,,1
+SONO Doppler Liver,True,1,1,0,US,US,1,abdominal vessels,liver,0,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+SONO Doppler Liver (Detailed) (소아),True,1,1,0,US,US,1,abdominal vessels,liver,0,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+PM(PET/MRI)-Rt Lower leg (contrast)MRI,True,1,1,0,MR,PET,0,lower leg,lower leg,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Lt Brachial plexus + Neurography (contrast),True,1,1,0,MR,MR,1,,brachial plexus,0,upper extremity,neck,0,left,left,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Larynx (contrast),True,1,1,0,MR,MR,1,larynx,larynx,1,head,neck,0,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+(HPC) D-L-spine Lat(standing),True,1,1,0,XR,,0,spine.lumbar,spine,0,abdomen,lower extremity,0,,unspecified,0,WO,,0,view; lateral,Lateral,0,,,1,,,1,w,,0,,,1
+Both Pulmonary arteriography,True,1,1,0,RF,,0,pulmonary arteries,pulmonary artery,0,chest,chest,1,bilateral,bilateral,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+MRI Lt Ankle arthrography (contrast),True,1,1,0,MR,MR,1,ankle,ankle,1,lower extremity,lower extremity,1,left,left,1,WO,W,0,,,1,,,1,,,1,w,,0,,,1
+SONO-GUIDED PROCEDURE III (INT),False,0,1,0,,US,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+MRI RT Plan T-Spine (contrast),True,1,1,0,MR,MR,1,spine.thoracic,spine,0,chest,spine,0,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+PM(PET/MRI)-ABD(Liver)+Pelvis (contrast)MRI,True,1,1,0,MR,PET,0,,liver,0,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI SWIFT Brain (noncontrast) (Research),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Rt Ext. iliac arteriography,True,1,1,0,RF,NM,0,lower extremity arteries,iliac artery,0,lower extremity,lower extremity,1,right,right,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+MRI Research - YNE (TBI),True,1,1,0,MR,MR,1,brain,,0,head,,0,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI Pancreatobiliary NRF Research (contrast),True,1,1,0,MR,MR,1,pancreas,pancreas,1,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Embolization : Rt uterine,False,0,1,0,,,1,,uterine,0,,pelvis,0,,right,0,,,1,,,1,,embolization,0,,,1,,,1,,,1
+MRI Research-mTBI-cohort,False,0,1,0,,MR,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+MRI Research - C-spine KSM_GN42272,True,1,1,0,MR,MR,1,spine.cervical,spine,0,neck,neck,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI Rectum + Whole body diffusion (contrast),True,1,1,0,MR,MR,1,,rectum,0,abdomen,whole body,0,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+EBD tube check,True,1,1,0,RF,,0,tube,,0,xxx,,0,,,1,W,,0,Views,,0,,,1,,,1,w,,0,patency,,0
+(외부)Myelo-(whole spine),True,1,1,0,RF,,0,spine.cervical,spine,0,neck,whole body,0,,,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+PET/MR Research Brain-LDS-1st,True,1,1,0,MR,PET,0,brain,brain,1,head,head,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI Lt Knee (noncontrast),True,1,1,0,MR,MR,1,knee,knee,1,lower extremity,lower extremity,1,left,left,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Dural A.V.F embolization (Artery),True,1,1,0,,,1,,,1,,,1,,,1,WO,,0,,,1,,embolization,0,,a.v.f,0,,,1,,,1
+SONO Research ARFI-Tm-LJY,False,0,1,0,,US,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+SONO-GUIDED PROCEDURE III (INT),False,0,1,0,,US,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+SONO Appendix (충수),True,1,1,0,US,US,1,appendix,appendix,1,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Thoracic aortography,True,1,1,0,RF,,0,aorta.thoracic,aorta,0,chest,chest,1,,unspecified,0,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+UGIS-Gastrografin,True,1,1,0,RF,,0,gastrointestinal tract.upper,,0,abdomen,,0,,,1,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+SONO Radiology consult OB - 1st trimester,True,1,1,0,US,US,1,,,1,pelvis,abdomen,0,,,1,W,,0,,,1,,,1,,,1,,,1,first trimester,,0
+D-L-spine Rt Bending AP,True,1,1,0,XR,,0,spine.lumbar,spine,0,abdomen,lower extremity,0,,right,0,WO,,0,view; ap,AP,0,,,1,,,1,w,,0,,,1
+"TFCA, Rt Common carotid artery",True,1,1,0,RF,,0,carotid arteries,artery,0,head,neck,0,right,right,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+Wrist Both Billiard,True,1,1,0,XR,,0,hand,wrist,0,upper extremity,upper extremity,1,bilateral,bilateral,1,WO,,0,view,,0,,,1,,,1,,,1,,,1
+Wrist Lt Lat(Fx.),True,1,1,0,XR,XR,1,wrist,wrist,1,upper extremity,lower extremity,0,left,left,1,WO,WO,1,view; lateral,Lateral,0,,,1,,,1,,,1,,,1
+PCN tube check Lt,False,0,1,0,,,1,,,1,,,1,,left,0,,,1,,,1,,,1,,,1,,,1,,,1
+Arthrography Rt (MRI 검사용),True,1,1,0,MR,MR,1,joint,joint,1,xxx,lower extremity,0,,right,0,WO,W,0,,,1,,,1,,,1,w,,0,,,1
+CT (Metal) Lower Extremity alignment+3D (noncontrast),True,1,1,0,CT,CT,1,,lower extremity,0,lower extremity,lower extremity,1,unspecified,unspecified,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Brain A.V.M. embolization,True,1,1,0,,,1,,brain,0,,head,0,,unspecified,0,WO,,0,,,1,,embolization,0,,,1,,,1,,,1
+MRI Lt Hip arthrography(contrast),True,1,1,0,MR,MR,1,hip,hip,1,lower extremity,lower extremity,1,left,left,1,WO,W,0,,,1,,,1,,,1,w,,0,,,1
+MRI C-T-LS-spine Myelogram (noncontrast),True,1,1,0,MR,MR,1,spine.cervical,spine,0,neck,lower extremity,0,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+SONO Liver (Detailed) (Contrast) (Sonazoid* Kit),True,1,1,0,US,US,1,liver,liver,1,abdomen,abdomen,1,,,1,WO,W,0,,,1,,,1,,,1,,,1,,,1
+CT (Metal) Rt Knee Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,knee,knee,1,lower extremity,lower extremity,1,right,right,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+Lower leg Rt Lat,False,0,1,0,,,1,,lower leg,0,,lower extremity,0,,right,0,,,1,,Lateral,0,,,1,,,1,,,1,,,1
+(외부)PM(PET/MRI)-MRI-Upper extremity,True,1,1,0,MR,PET,0,,,1,upper extremity,upper extremity,1,unspecified,,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+Lt Biliary Stent Placement,True,1,1,0,,,1,biliary ducts,biliary stent,0,abdomen,abdomen,1,,left,0,W,,0,,,1,placement,placement,1,stent,stent,1,,,1,,,1
+MRI Research GS-4566 Rt (contrast),True,1,1,0,MR,MR,1,,,1,breast,,0,right,right,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Angiography - Abdominal Aorta (contrast),True,1,1,0,MR,MR,1,abdominal vessels,aorta,0,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Embolization : gastroesoph.varix,True,1,1,0,,,1,,varix,0,,abdomen,0,,unspecified,0,WO,,0,,,1,,embolization,0,,gastroesophageal varix,0,,,1,,,1
+소아SONO Research PED-LSH,True,1,1,0,US,US,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Lower leg Lt AP,True,1,1,0,XR,,0,,lower leg,0,lower extremity,lower extremity,1,left,left,1,WO,,0,view; ap,AP,0,,,1,,,1,w,,0,,,1
+Infusion for thrombolysis: Extracranial,False,0,1,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,thrombolysis,0
+PCN Lt (INT),False,0,1,0,,,1,,,1,,,1,,left,0,,,1,,,1,,,1,,,1,,,1,,,1
+CT Abdomen+Pelvis 3D (noncontrast),True,1,1,0,CT,CT,1,,abdomen,0,abdomen,abdomen,1,,,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Esophageal stent placement,False,0,1,0,,,1,,esophagus,0,,abdomen,0,,unspecified,0,,,1,,,1,,placement,0,,stent,0,,,1,,,1
+Rt Subclavian arteriography (INT),True,1,1,0,RF,NM,0,subclavian artery,subclavian artery,1,chest,upper extremity,0,right,right,1,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+CT Research Chest -ATHENA/CALLA (contrast_NO CM),True,1,1,0,CT,CT,1,,,1,chest,chest,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+SONO MWA GU (경피적) : 신장암 - 추가시행시,True,1,1,0,US,US,1,kidney,kidney,1,abdomen,abdomen,1,unspecified,,0,WO,,0,,,1,ablation,,0,tissue,,0,,,1,,kidney cancer,0
+Ped MRI Chest (contrast),True,1,1,0,MR,MR,1,,,1,chest,chest,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+(외부)CT-Abdomen & Pelvis (Abdomen),True,1,1,0,CT,CT,1,,abdomen,0,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT (Metal) Rt Elbow + 3D (noncontrast),True,1,1,0,CT,CT,1,elbow,elbow,1,upper extremity,upper extremity,1,right,right,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+CT Lt Upper arm + 3D (contrast),True,1,1,0,CT,CT,1,,upper arm,0,upper extremity,upper extremity,1,left,left,1,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+CT Abdomen+Pelvis (noncontrast),True,1,1,0,CT,CT,1,,abdomen,0,abdomen,abdomen,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+"TFCA, Lt Common carotid artery",True,1,1,0,RF,,0,carotid arteries,artery,0,head,neck,0,left,left,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+SONO Transvaginal,True,1,1,0,US,US,1,,,1,pelvis,pelvis,1,,unspecified,0,WO,,0,transvaginal,,0,,,1,,,1,,,1,,,1
+Vascular stents : iliac a.,False,0,1,0,,,1,,iliac artery,0,,pelvis,0,,unspecified,0,,,1,,,1,,placement,0,,stent,0,,,1,,,1
+(HPC) C-spine AP,True,1,1,0,XR,,0,spine.cervical,cervical spine,0,neck,spine,0,,unspecified,0,WO,WO,1,view; ap,AP,0,,,1,,,1,,,1,,,1
+Toe Lt (B)Obl,True,1,1,0,XR,,0,toes,toe,0,lower extremity,lower extremity,1,bilateral,left,0,WO,,0,Views,Oblique,0,,,1,,,1,,,1,,,1
+Vascular stents : subclavian a.,False,0,1,0,,,1,,subclavian artery,0,,neck,0,,unspecified,0,,,1,,,1,,placement,0,,stent,0,,,1,,,1
+MRI Research - CSH(YAD),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Sternum + 3D (noncontrast),True,1,1,0,CT,CT,1,sternum,sternum,1,chest,chest,1,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+SONO Bowel (portable) (소아),True,1,1,0,US,US,1,,bowel,0,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI Research - DWASL,True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Angio + 3D Brain + Venography(contrast),True,1,1,0,CT,CTA,0,head arteries,brain,0,head,head,1,,unspecified,0,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+MRI RT Plan T-Spine (non contrast),True,1,1,0,MR,MR,1,spine.thoracic,spine,0,chest,lower extremity,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Angioplasty: Intracranial arteries,True,1,1,0,RF,,0,carotid artery.intracranial,arteries,0,head,head,1,,,1,W,,0,,,1,angioplasty,,0,,,1,w,,0,,,1
+MRI Urography (소아 dynamic study) (contrast),True,1,1,0,MR,MR,1,,kidney,0,abdomen,abdomen,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,dynamic,0,,,1
+Diagnostic spinal tapping,False,0,1,0,,,1,,,1,,spine,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+Angioplasty : Lt iliac a.,False,0,1,0,,,1,,iliac artery,0,,pelvis,0,,left,0,,,1,,,1,,angioplasty,0,,,1,,,1,,,1
+MRI Brain + Venography (noncontrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+CT Research kidney_ KSY,True,1,1,0,CT,CT,1,kidney,kidney,1,abdomen,abdomen,1,bilateral,,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+Genitography,True,1,1,0,RF,,0,urethra,,0,pelvis,,0,,,1,W,,0,Views,,0,,,1,,,1,w,,0,,,1
+SONO Neck Except Thyroid/Parathyroid,True,1,1,0,US,US,1,,neck,0,neck,neck,1,,unspecified,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+MRI T-spine: Thin Section (OP) (contrast),True,1,1,0,MR,MR,1,spine.thoracic,spine,0,chest,spine,0,,unspecified,0,W,W,1,,Thin Section,0,,,1,,,1,w,,0,,,1
+Fluoroscopic foreign body removal (INT),True,1,1,0,RF,RF,1,,,1,,,1,,,1,WO,,0,,,1,substance removal,removal,0,foreign body,foreign body,1,,,1,,,1
+Chest PA (미국 비자발급용),True,1,1,0,XR,XR,1,,,1,chest,chest,1,,unspecified,0,WO,WO,1,view; pa upright,PA,0,,,1,,,1,,,1,,,1
+SONO Lymph node (1부위),True,1,1,0,US,US,1,,lymph node,0,,unspecified,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+SONO Research CEUS - YJI,False,0,1,0,,US,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+MRI Research_ Others KHJ (noncontrast),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Research - Brain KSM_GN42272,True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+(HPC) L-S-spine AP,True,1,1,0,XR,XR,1,spine.lumbar,spine,0,abdomen,lower extremity,0,,unspecified,0,WO,WO,1,view; ap,AP,0,,,1,,,1,,,1,,,1
+Hand Lt Obl,True,1,1,0,XR,,0,hand,hand,1,upper extremity,upper extremity,1,left,left,1,WO,,0,view,Oblique,0,,,1,,,1,,,1,,,1
+"MRI Rt Ankle (감염, 관절염) (contrast)",True,1,1,0,MR,MR,1,ankle,ankle,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,,1,,,1,,,1,w,,0,,"infection, arthritis",0
+Research DEXA - Lt Knee,False,0,1,0,,DXA,0,,knee,0,,lower extremity,0,,left,0,,WO,0,,,1,,,1,,,1,,,1,,,1
+MRI Research-SMW(TINN),True,1,1,0,MR,MR,1,,,1,,,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+D-L-spine AP(stand),True,1,1,0,XR,,0,spine.lumbar,spine,0,abdomen,lower extremity,0,,left,0,WO,,0,view; ap,AP,0,,,1,,,1,,,1,,,1
+CT Sacrum Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,spine.lumbar,sacrum,0,abdomen,pelvis,0,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+"MRI Orbit - Optic nerve, mass (contrast)",True,1,1,0,MR,MR,1,orbit,optic nerve,0,head,head,1,unspecified,unspecified,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+Sclerotherapy: Check (INT),False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+CT Perfusion Brain (contrast),True,1,1,0,CT,CT,1,,brain,0,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Brain + Brain MRA + Carotid MRA + Diffusion (non contra,True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+SONO Doppler UE vein Rt (Portable),True,1,1,0,US,US,1,upper extremity vein,vein,0,upper extremity,upper extremity,1,right,right,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Rt Lower leg Trauma + 3D (noncontrast),True,1,1,0,CT,CT,1,lower leg,lower leg,1,lower extremity,lower extremity,1,right,right,1,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,trauma,0
+Ped MRI Lymphangiography (noncontrast),True,1,1,0,MR,MR,1,,lymphatic system,0,,unspecified,0,,unspecified,0,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+CT Research Liver-optima (contrast),True,1,1,0,CT,CT,1,liver,liver,1,abdomen,abdomen,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI RT Plan Pancreas (contrast),True,1,1,0,MR,MR,1,pancreas,pancreas,1,abdomen,abdomen,1,,unspecified,0,W,W,1,,,1,,,1,,,1,w,,0,,,1
+MRI Research SVD - Perfusion (contrast),True,1,1,0,,MR,0,,,1,,,1,,,1,W,W,1,,,1,,,1,,,1,,,1,,,1
+Hip Rt Translateral,True,1,1,0,XR,,0,hip,hip,1,lower extremity,lower extremity,1,right,right,1,WO,,0,view,Translateral,0,,,1,,,1,,,1,,,1
+SONO Abdominal wall,True,1,1,0,US,US,1,,abdominal wall,0,abdomen,abdomen,1,,,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Sella (3P) (contrast),True,1,1,0,CT,CT,1,posterior fossa,sella,0,head,head,1,,unspecified,0,W,W,1,,3P,0,,,1,,,1,w,,0,,,1
+Colon,False,0,1,0,,,1,,colon,0,,abdomen,0,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+CT Research Chest(contrast) WO42017,False,0,1,0,,CT,0,,chest,0,,chest,0,,unspecified,0,,W,0,,,1,,,1,,,1,,,1,,,1
+Change of Ureter stent Both (INT),True,1,1,0,,,1,ureter,ureter,1,abdomen,abdomen,1,unspecified,bilateral,0,W,,0,,,1,placement,,0,stent,,0,,,1,,,1
+DVD Print(원외용)/장,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+Fluoroscopy(contrast),True,1,1,0,RF,RF,1,,,1,,,1,,,1,W,W,1,Views,,0,,,1,,,1,w,,0,,,1
+MRI Brain Epilepsy (contrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,epilepsy,0
+PCN Lt,False,0,1,0,,,1,,,1,,,1,,left,0,,,1,,,1,,,1,,,1,,,1,,,1
+CT (Metal) Hip (arthroplasty) + 3D (noncontrast),True,1,1,0,CT,CT,1,hip,hip,1,lower extremity,lower extremity,1,unspecified,,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,,1
+Spinal angiogram: 5-10vessels,True,1,1,0,RF,,0,spine vessel,,0,xxx,spine,0,,,1,WO,,0,Views,,0,,,1,,,1,,,1,,,1
+(Accel) MRI Brain + Brain MRA + Carotid MRA (contrast),True,1,1,0,,MR,0,,brain,0,,head,0,,unspecified,0,W,W,1,,,1,,,1,,,1,,,1,,,1
+CT Angio + 3D Neck(contrast),True,1,1,0,CT,CTA,0,,neck,0,neck,head,0,,unspecified,0,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+Knee Both Skyline(1매),True,1,1,0,XR,,0,knee,knee,1,lower extremity,lower extremity,1,bilateral,bilateral,1,WO,,0,views 1 or 2,Skyline,0,,,1,,,1,,,1,,,1
+CT Research liver+pelvis-W(contrast),True,1,1,0,CT,CT,1,,liver,0,abdomen,pelvis,0,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+CT Chest ILD Insp + 3D (noncontrast),True,1,1,0,CT,CT,1,,lung,0,chest,chest,1,,unspecified,0,WO,WO,1,,3D,0,,,1,,,1,wo,,0,,ild,0
+CT (Metal) Rt Wrist + 3D (contrast),True,1,1,0,CT,CT,1,wrist,wrist,1,upper extremity,upper extremity,1,right,right,1,W,W,1,,3D,0,,,1,,,1,w,,0,,,1
+"SONO Obstetric (Radiology) - 태아정밀(Anomaly) (Triplet)-2,3st trimester",True,1,1,0,US,US,1,,fetus,0,pelvis,abdomen,0,,unspecified,0,W,,0,,,1,,,1,,,1,,,1,second or third trimester,anomaly,0
+CR 추가,False,0,0,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1,,,1
+Spinal puncture with contrast injection for CT(Musculoskelet,True,1,1,0,CT,CT,1,spine,spine,1,xxx,spine,0,,unspecified,0,W,W,1,,,1,,injection,0,,,1,w,,0,,,1
+Cross table Both Lat,True,1,1,0,XR,,0,hip,,0,lower extremity,,0,bilateral,bilateral,1,WO,,0,view; lateral crosstable,crosstable lateral,0,,,1,,,1,,,1,,,1
+MRI Cine Spinal cord (noncontrast),True,1,1,0,MR,MR,1,spine,spinal cord,0,xxx,spine,0,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+MRI Rt Knee - T2 Mapping (noncontrast),True,1,1,0,MR,MR,1,knee,knee,1,lower extremity,lower extremity,1,right,right,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+C-spine Lat(ext),True,1,1,0,XR,,0,spine.cervical,spine,0,neck,neck,1,,unspecified,0,WO,WO,1,view; lateral,Lateral,0,,,1,,,1,w,,0,,,1
+PCN tube change Lt,False,0,1,0,,,1,,,1,,,1,,left,0,,,1,,,1,,,1,,,1,,,1,,,1
+Forearm Rt (B)Obl(2회),True,1,1,0,XR,,0,,forearm,0,upper extremity,upper extremity,1,bilateral,right,0,WO,,0,views 2,Oblique,0,,,1,,,1,,,1,,,1
+Elbow Both (B)Obl(2회),True,1,1,0,XR,,0,elbow,elbow,1,upper extremity,upper extremity,1,bilateral,bilateral,1,WO,,0,views; oblique,Oblique,0,,,1,,,1,,,1,,,1
+Ureter dilatation Rt,False,0,1,0,,,1,,ureter,0,,abdomen,0,,right,0,,,1,,,1,,,1,,,1,,,1,,,1
+MRI CE-MRA(Intracranial) (contrast),True,1,1,0,MR,MR,1,brain,brain,1,head,head,1,,,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+SONO Neck Except Thyroid/Parathyroid + Doppler,True,1,1,0,US,US,1,neck vessels,neck,0,neck,neck,1,unspecified,unspecified,1,WO,,0,,,1,,,1,,,1,,,1,,,1
+Ped MRI Lymphangiography (contrast),False,0,1,0,,MR,0,,lymphatic system,0,,unspecified,0,,unspecified,0,,W,0,,,1,,,1,,,1,,,1,,,1
+CT (Metal) Rt Knee Trauma + 3D (contrast),True,1,1,0,CT,CT,1,knee,knee,1,lower extremity,lower extremity,1,right,right,1,W,W,1,,3D,0,,,1,,,1,w,,0,,trauma,0
+CT Research-IQon-Noncontrast-MSK-CJY,True,1,1,0,CT,CT,1,spine,,0,xxx,musculoskeletal,0,,,1,WO,WO,1,,,1,,,1,,,1,wo,,0,,,1
+Digital Breast Tomosynthesis Lt,True,1,1,0,MG,MG,1,,breast,0,breast,chest,0,left,left,1,WO,,0,,,1,,,1,,,1,,,1,diagnostic,,0
+MRI Lt Brachial plexus (종양) (contrast),True,1,1,0,MR,MR,1,,brachial plexus,0,upper extremity,neck,0,left,left,1,W,W,1,,,1,,,1,,,1,w,,0,,,1
+(외부)MRI LS-spine,True,1,1,0,MR,MR,1,spine.lumbar,spine,0,abdomen,lower extremity,0,,unspecified,0,WO,,0,,,1,,,1,,,1,,,1,,,1
+CT Whole body Low Dose + 3D (noncontrast),True,1,1,1,CT,CT,1,,,1,whole body,whole body,1,,,1,WO,WO,1,,,1,,,1,,,1,,,1,,,1
+Lt Inferior phrenic arteriography,False,0,1,0,,NM,0,,inferior phrenic artery,0,,abdomen,0,,left,0,,,1,,,1,,,1,,,1,,,1,,,1

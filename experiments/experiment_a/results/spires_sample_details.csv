@@ -1,0 +1,286 @@
+﻿idx,local_name,gold_modality,spires_modality,spires_match_modality,gold_anatomy_focus,spires_anatomy_focus,spires_match_anatomy_focus,gold_anatomy_region,spires_anatomy_region,spires_match_anatomy_region,gold_laterality,spires_laterality,spires_match_laterality,gold_contrast,spires_contrast,spires_match_contrast,gold_view,spires_view,spires_match_view,gold_guidance_action,spires_guidance_action,spires_match_guidance_action,gold_guidance_object,spires_guidance_object,spires_match_guidance_object,gold_timing,spires_timing,spires_match_timing,gold_reason,spires_reason,spires_match_reason
+0,1 Level bilateral Transforaminal epidural injection -Cervical,,,True,,cervical,False,,neck,False,,bilateral,False,,,True,,,True,,injection,False,,,True,,,True,,,True
+1,Foot & Ankle Rt Lat (DF),XR,,False,ankle,ankle,True,lower extremity,lower extremity,True,right,right,True,WO,WO,True,Views,Lateral,False,,,True,,,True,,,True,,,True
+2,Reposition of Ureter stent Lt (INT),,,True,ureter,ureter,True,abdomen,abdomen,True,unspecified,left,False,W,,False,,,True,placement,reposition,False,stent,stent,True,,,True,,,True
+3,MRI Thyroid (contrast),MR,MR,True,thyroid gland,thyroid gland,True,neck,neck,True,,,True,WO,W,False,,,True,,,True,,,True,,,True,,,True
+4,MRI-Brain-SVD (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+5,Femur Both Lat,XR,,False,femur,femur,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,view,Lateral,False,,,True,,,True,,,True,,,True
+6,"Myelo-(C+T,T+L)(Musculoskeletal)",CT,,False,spine.cervical,,False,neck,musculoskeletal,False,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+7,SONO Research Gun Biopsy - Breast,US,US,True,,breast,False,breast,,False,unspecified,,False,WO,,False,,,True,biopsy,biopsy,True,,,True,,,True,,,True
+8,CT Angio + 3D Pulmonary artery (thoracoabdominal PPVI)(contrast)-(소아),CT,CTA,False,chest vessels,pulmonary artery,False,chest,thoracoabdominal,False,,unspecified,False,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+9,Ped MRI Growth Plate (noncontrast),MR,MR,True,,growth plate,False,,unspecified,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+10,Defecography,RF,,False,rectum,,False,pelvis,,False,,,True,W,,False,view,,False,,,True,,,True,,,True,,,True
+11,PCN tube reposition Rt,,,True,,,True,,,True,,right,False,,,True,,,True,,reposition,False,,tube,False,,,True,,,True
+12,Chest Lt Lat,,,True,,,True,,chest,False,,left,False,,,True,,Lateral,False,,,True,,,True,,,True,,,True
+13,CT Research PRISM study (noncontrast),CT,CT,True,,,True,,,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+14,MRI Brain Navigation (contrast) (SEEG),MR,MR,True,brain,brain,True,head,head,True,,,True,W,W,True,,,True,stereotactic localization,,False,,,True,w,,False,,,True
+15,CT Rt Lower leg Trauma + 3D (contrast),CT,CT,True,lower leg,lower leg,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,3D,False,,,True,,,True,w,,False,,trauma,False
+16,CT Hip Trauma + 3D (noncontrast),CT,CT,True,hip,hip,True,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+17,Mammography Lt -SONO Localization 용,MG,MG,True,,breast,False,breast,,False,left,left,True,WO,,False,,,True,localization,localization,True,,,True,,,True,,,True
+18,Angioplasty : other central veins,,,True,,,True,,,True,,,True,,,True,,,True,,angioplasty,False,,central veins,False,,,True,,,True
+19,PM(PET/MRI)-Chest wall (contrast)MRI,MR,PET,False,,chest wall,False,chest,chest,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+20,Ped MRI Brain routine (T2 thin section) (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,T2 thin section,False,,,True,,,True,wo,,False,,,True
+21,CT (Metal) Lt Ankle Trauma + 3D (noncontrast),CT,CT,True,ankle,ankle,True,lower extremity,lower extremity,True,left,left,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+22,Shoulder Both AP,XR,,False,shoulder,shoulder,True,upper extremity,upper extremity,True,bilateral,bilateral,True,WO,,False,view; ap,AP,False,,,True,,,True,,,True,,,True
+23,CT Lower Extremity alignment+3D (noncontrast),CT,CT,True,,lower extremity,False,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+24,Femur Rt (B)Obl(2매),XR,,False,knee,femur,False,lower extremity,lower extremity,True,right,right,True,WO,,False,views 2; oblique,Oblique,False,,,True,,,True,,,True,,,True
+25,PET/MR Research Brain-RBD-JKY,MR,PET,False,brain,brain,True,head,head,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+26,Ped CT Chest Hemoptysis (contrast),CT,CT,True,,lung,False,chest,chest,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,hemoptysis,False
+27,Hip Cross table Lat Both,XR,,False,hip,hip,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,view; lateral crosstable,crosstable lateral,False,,,True,,,True,,,True,,,True
+28,Ped MRI Knee Patellar Dislocation (noncontrast),MR,MR,True,knee,knee,True,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,patellar dislocation,False
+29,MRI Brain-RLS (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+30,SONO Gun Biopsy - Head/Face (2 site),US,US,True,,,True,,head,False,,unspecified,False,WO,WO,True,,2 views,False,biopsy,biopsy,True,,,True,,,True,,,True
+31,Ped MRI IAC (contrast),MR,MR,True,skull.base,,False,head,,False,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+32,Toe Rt AP,XR,,False,toes,toe,False,lower extremity,lower extremity,True,right,right,True,WO,WO,True,Views,AP,False,,,True,,,True,,,True,,,True
+33,MRI Brain GK-FSRS (contrast),MR,MR,True,brain,brain,True,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+34,CT (Metal) Rt Thigh Trauma + 3D (noncontrast),CT,CT,True,,femur,False,lower extremity,lower extremity,True,right,right,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+35,MRI Research-KJW (cap),MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+36,Wrist Lt (B)Obl(2회),XR,,False,wrist,wrist,True,upper extremity,upper extremity,True,left,left,True,WO,,False,views 2,Oblique,False,,,True,,,True,,,True,,,True
+37,PM(PET/MRI)-Methionine 2nd MRI Glioma PM(PET/MRI) (contrast),MR,PET,False,brain,glioma,False,head,brain,False,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+38,MRI Lt Ankle (noncontrast),MR,MR,True,ankle,ankle,True,lower extremity,lower extremity,True,left,left,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+39,CT (Metal) Rt Foot Trauma + 3D (contrast),CT,CT,True,foot,foot,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,3D,False,,,True,,,True,w,,False,,trauma,False
+40,Elbow Rt AP,XR,,False,elbow,elbow,True,upper extremity,upper extremity,True,right,right,True,WO,,False,view; ap,AP,False,,,True,,,True,,,True,,,True
+41,Teleradiogram Lt Lat (Lower Ext),,,True,,lower extremity,False,,lower extremity,False,,left,False,,,True,,Lateral,False,,,True,,,True,,,True,,,True
+42,Toe Rt (B)Obl,XR,,False,toes,toe,False,lower extremity,lower extremity,True,bilateral,right,False,WO,,False,Views,Oblique,False,,,True,,,True,,,True,,,True
+43,PM(PET/MRI)-Liver(Stomach cancer)+Pelvis (contrast )(Gadovis,MR,PET,False,,liver,False,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,stomach cancer,False
+44,SONO Obstetric (Radiology) -태아정밀(Anomaly) (twin)-1st trimester,US,US,True,,fetus,False,pelvis,abdomen,False,,unspecified,False,W,,False,,,True,,,True,,,True,,,True,first trimester,,False
+45,PM(PET/MRI)-Brain GKNP (contrast) MRI,MR,PET,False,brain,brain,True,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+46,PM(PET/MRI)-Pancreas Biliary DOTA-TOC (contrast) MRI,MR,PET,False,pancreas,pancreas,True,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+47,CT Rt Thigh + 3D (contrast),CT,CT,True,femur,femur,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+48,SONO RFA MSK (1st),US,US,True,,,True,,musculoskeletal,False,,,True,WO,,False,,,True,ablation,,False,tissue,,False,,,True,,,True
+49,MRI Research - Perfusion(CWS),MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+50,Ped MRI Extended LS-spine (noncontrast),MR,MR,True,spine.lumbar,spine,False,abdomen,lower extremity,False,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+51,Foot & Ankle Rt Lat (PF),XR,,False,ankle,foot,False,lower extremity,lower extremity,True,right,right,True,WO,,False,views; lateral,Lateral,False,,,True,,,True,,,True,,,True
+52,MRI Research-SJJ(TN),MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+53,Both Subclavian arteriography (INT),RF,NM,False,upper extremity arteries,subclavian artery,False,upper extremity,upper extremity,True,bilateral,bilateral,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+54,MRI Brain Epilepsy post op (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,postoperative,,False,,,True,,,True,,post-contrast,False,,epilepsy,False
+55,(외부)MRI-Knee,MR,MR,True,knee,knee,True,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+56,(HPC) Chest Both Lat,,,True,,,True,,chest,False,,bilateral,False,,,True,,Lateral,False,,,True,,,True,,,True,,,True
+57,Hip AP (Push),XR,,False,hip,hip,True,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,,False,view; ap,AP,False,,,True,,,True,,,True,,,True
+58,Infantogram,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+59,MRI Brain Stereotaxic (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,stereotactic localization,,False,,,True,wo,,False,,,True
+60,Knee Both AP(supine)(1매),XR,,False,knee,knee,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,WO,True,view; ap,AP,False,,,True,,,True,,,True,,,True
+61,Reposition of Ureter stent Rt (INT),,,True,ureter,ureter,True,abdomen,abdomen,True,unspecified,right,False,W,,False,,,True,placement,reposition,False,stent,stent,True,,,True,,,True
+62,Gastrojejunostomy tube check,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+63,MRI Brain Parkinson(noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+64,MRI Brain MRA (Aneurysm) (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+65,Elbow Lt AP,XR,,False,elbow,elbow,True,upper extremity,upper extremity,True,left,left,True,WO,WO,True,view; ap,AP,False,,,True,,,True,,,True,,,True
+66,Ped CT Research Whole Body - CTJ,CT,CT,True,,,True,whole body,whole body,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+67,1 Level single Medial branch block ; MBB,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+68,SONO Elbow Rt(팔꿈치관절 편측),,US,False,,elbow,False,,upper extremity,False,,right,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+69,CT Rotation study(Tiba)+3D (noncontrast)(소아),CT,CT,True,,,True,lower extremity,,False,unspecified,,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+70,Hip Both Lat,XR,,False,hip,hip,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,view,Lateral,False,,,True,,,True,,,True,,,True
+71,Vascular stents : aorta a. (MFM),,,True,,aorta,False,,abdomen,False,,,True,,,True,,,True,,placement,False,,stent,False,,,True,,,True
+72,MRI Cardiac - Congenital (Cine+VENC+DE) (contrast),MR,MR,True,heart,heart,True,chest,chest,True,,unspecified,False,W,W,True,,Cine+VENC+DE,False,,,True,,,True,w,,False,,,True
+73,Chest Lt Decubitus,,,True,,,True,,chest,False,,left,False,,,True,,Decubitus,False,,,True,,,True,,,True,,,True
+74,MRI RT Plan Abdomen (non contrast),MR,MR,True,,abdomen,False,abdomen,abdomen,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+75,SBS (3개월 미만 소아),,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+76,SONO Chest Diagnostic (Portable),US,US,True,,,True,chest,chest,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+77,Gastrojejunostomy tube reposition,,,True,,,True,,,True,,,True,W,,False,,,True,,,True,,,True,,,True,,,True
+78,MRI Rectum+Abdomen (contrast),MR,MR,True,,rectum,False,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+79,Renal Cyst Aspiration (INT),US,,False,kidney,kidney,True,abdomen,abdomen,True,unspecified,unspecified,True,WO,WO,True,,,True,aspiration,aspiration,True,,cyst,False,,,True,cyst,,False
+80,Knee Both (B)Obl,XR,,False,knee,knee,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,views; oblique,Oblique,False,,,True,,,True,,,True,,,True
+81,SONO-GUIDED PROCEDURE III (PED),,US,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+82,Teleradiogram (Upper Ext),XR,,False,,,True,upper extremity,upper extremity,True,unspecified,,False,WO,,False,Views,,False,,,True,,,True,,,True,,,True
+83,Ped MRI Research Body - KHJ,MR,MR,True,,,True,whole body,whole body,True,,unspecified,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+84,Chest GJM Research,CT,,False,,,True,chest,chest,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+85,SONO Needle Aspiration - Head/Face (3 site 이상),US,US,True,,,True,,head,False,,unspecified,False,WO,WO,True,,,True,aspiration,aspiration,True,fluid,needle,False,,,True,,,True
+86,MRI Brain Arteriography + CE- MRA (contrast),MR,MR,True,head vessels,brain,False,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+87,MRI C-spine:non-HIVD (noncontrast),MR,MR,True,spine.cervical,spine,False,neck,neck,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+88,(외부)PM(PET/MRI)-MRI-Pelvis(GU),MR,PET,False,,pelvis,False,pelvis,abdomen,False,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+89,Femur Lt (B)Obl(2매),XR,,False,femur,femur,True,lower extremity,lower extremity,True,left,left,True,WO,,False,views 2,Oblique,False,,,True,,,True,,,True,,,True
+90,CT (Robot) Lower Extremity alignment + 3D (noncontrast),CT,CT,True,,lower extremity,False,lower extremity,lower extremity,True,unspecified,,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+91,CT (Metal) Lt Foot + 3D (noncontrast),CT,CT,True,foot,foot,True,lower extremity,lower extremity,True,left,left,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+92,Ped CT Chest (noncontrast),CT,CT,True,,chest,False,chest,chest,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+93,MRI Brain (IICP) (contrast),MR,MR,True,brain,brain,True,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,iicp,False
+94,Knee Both Ant.draw,XR,,False,knee,knee,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,views 1 or 2,,False,,,True,,,True,,,True,,,True
+95,MRI Brain FU Acute Stroke (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,fu,False,,acute stroke,False
+96,Ped MRI Anorectum (contrast),MR,MR,True,,anorectum,False,abdomen,pelvis,False,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+97,T-M Joint,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+98,Intercostal arteriography 5-10vessels(Lt),,,True,,intercostal artery,False,,chest,False,,left,False,,,True,,5-10 views,False,,,True,,,True,,,True,,,True
+99,CT-Guided Biopsy (Upper Ex.) (noncontrast),CT,CT,True,,,True,upper extremity,upper extremity,True,unspecified,unspecified,True,WO,WO,True,,,True,biopsy,biopsy,True,,,True,,,True,,,True
+100,Ped CT Nasal bone + 3D (noncontrast),CT,CT,True,facial bones,nasal bone,False,head,head,True,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+101,Ped MRI Research Heart,MR,MR,True,heart,heart,True,chest,chest,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+102,Foot Rt Lat,XR,,False,foot,foot,True,lower extremity,lower extremity,True,right,right,True,WO,,False,view; lateral,Lateral,False,,,True,,,True,,,True,,,True
+103,T-spine Lat(neut),XR,,False,spine.thoracic,spine,False,chest,spine,False,,unspecified,False,WO,,False,view; lateral,Lateral,False,,,True,,,True,,,True,,,True
+104,MRI Extended T-Spine: non-HIVD (noncontrast),MR,MR,True,spine.thoracic,spine,False,chest,thoracic spine,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+105,MRI Research_parkinsonism,MR,MR,True,brain,,False,head,,False,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+106,CT Liver+Pelvis 3D (contrast),CT,CT,True,,liver,False,abdomen,abdomen,True,,,True,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+107,SONO RFA GU (개복술하): 신장암 - Multiple tumors,US,US,True,kidney,kidney,True,abdomen,abdomen,True,unspecified,,False,WO,,False,,,True,ablation,rfa,False,tissue,tumors,False,,,True,,kidney cancer,False
+108,3 Levels single Transforaminal epidural injection -Lumbar,RF,,False,spine.lumbar,lumbar,False,abdomen,spine,False,,unspecified,False,WO,WO,True,,,True,injection,injection,True,,,True,,,True,,,True
+109,CT C-Spine + 3D (noncontrast),CT,CT,True,spine.cervical,spine,False,neck,neck,True,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+110,Intervention Chest PCD tube check,RF,,False,,,True,chest,chest,True,,,True,W,,False,,,True,placement,,False,tube,,False,,,True,,,True
+111,CVC Non-Tunnel method with fluoroscopy,RF,RF,True,,,True,,,True,,,True,W,,False,,,True,placement,,False,catheter,,False,,,True,,,True
+112,Angioplasty : Rt subclavian v.,,,True,,subclavian vein,False,,neck,False,,right,False,,,True,,,True,,angioplasty,False,,,True,,,True,,,True
+113,Sup. Rt.Venacavography,RF,,False,vein,,False,xxx,,False,right,right,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+114,CT Coronary Artery Calcium Scoring (noncontrast),CT,CT,True,heart,coronary artery,False,chest,heart,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,,,True,calcium score,,False
+115,(외부)MRI-Ankle,MR,MR,True,ankle,ankle,True,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+116,Knee Lt Lat(60oF),XR,,False,knee,knee,True,lower extremity,lower extremity,True,left,left,True,WO,,False,view; lateral,Lateral,False,,,True,,,True,,,True,,,True
+117,SONO Doppler LE vein (Varicose) Rt,US,US,True,lower extremity vein,vein,False,lower extremity,lower extremity,True,right,right,True,WO,,False,,,True,,,True,,,True,,,True,,varicose,False
+118,SONO Needle Aspiration - Head/Face,US,US,True,,,True,,head,False,,unspecified,False,WO,WO,True,,,True,aspiration,aspiration,True,fluid,needle,False,,,True,,,True
+119,Ped CT Brain (contrast),CT,CT,True,,brain,False,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+120,MRI RT Plan Prostate (non contrast),MR,MR,True,prostate,prostate,True,pelvis,pelvis,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+121,Rt. Pulmonary arteriography,RF,NM,False,pulmonary arteries,pulmonary artery,False,chest,chest,True,right,right,True,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+122,CT Chest Low Dose + 3D (Prone) (noncontrast),CT,CT,True,,lung,False,chest,chest,True,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+123,Abdominal aortography,RF,,False,aorta.abdominal,aorta,False,abdomen,abdomen,True,,unspecified,False,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+124,Ped MRI Liver Mass (contrast),MR,MR,True,liver,liver,True,abdomen,abdomen,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+125,PCN tube reposition Rt (INT),US,,False,kidney,,False,abdomen,,False,right,right,True,WO,,False,,,True,drainage; placement,reposition,False,drainage catheter,tube,False,,,True,,,True
+126,MRI NP-Dementia Brain+DTI(DWI)+MRA(Intra+Caro) (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+127,Bone age,XR,,False,bone,,False,xxx,,False,,,True,WO,,False,Views,,False,,,True,,,True,,,True,bone age,,False
+128,MRI RT Plan Upper Extremity (non contrast),MR,MR,True,,upper extremity,False,upper extremity,upper extremity,True,unspecified,right,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+129,MRI Research Spleen volume INCB,MR,MR,True,spleen,spleen,True,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+130,MRI PNS oropharynx_flap (noncontrast),MR,MR,True,oropharynx,oropharynx,True,head,head,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+131,SONO Research Doppler - KHJ (소아),US,US,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+132,MRI Lt Foot (종양) (contrast),MR,MR,True,foot,foot,True,lower extremity,lower extremity,True,left,left,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+133,Ped MRI Brain Tumor DTI (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+134,MRI IAC cochlear implant (noncontrast),MR,MR,True,internal auditory canal,cochlea,False,head,head,True,unspecified,unspecified,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+135,MRI Urography (contrast),MR,MR,True,,kidney,False,abdomen,abdomen,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+136,(외부)CT-Spine,,CT,False,,spine,False,,spine,False,,unspecified,False,,,True,,,True,,,True,,,True,,,True,,,True
+137,MRI Lt Lower leg (noncontrast),MR,MR,True,lower leg,lower leg,True,lower extremity,lower extremity,True,left,left,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+138,SONO Foot Rt(족부관절 편측),,US,False,,foot,False,,lower extremity,False,,right,False,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+139,Hand Both PA (PED 0-24mo),XR,,False,hand,hand,True,upper extremity,upper extremity,True,bilateral,bilateral,True,WO,,False,view; pa,PA,False,,,True,,,True,,,True,,,True
+140,SONO Doppler Liver,US,US,True,abdominal vessels,liver,False,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+141,SONO Doppler Liver (Detailed) (소아),US,US,True,abdominal vessels,liver,False,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+142,PM(PET/MRI)-Rt Lower leg (contrast)MRI,MR,PET,False,lower leg,lower leg,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+143,MRI Lt Brachial plexus + Neurography (contrast),MR,MR,True,,brachial plexus,False,upper extremity,neck,False,left,left,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+144,MRI Larynx (contrast),MR,MR,True,larynx,larynx,True,head,neck,False,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+145,(HPC) D-L-spine Lat(standing),XR,,False,spine.lumbar,spine,False,abdomen,lower extremity,False,,unspecified,False,WO,,False,view; lateral,Lateral,False,,,True,,,True,w,,False,,,True
+146,Both Pulmonary arteriography,RF,,False,pulmonary arteries,pulmonary artery,False,chest,chest,True,bilateral,bilateral,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+147,MRI Lt Ankle arthrography (contrast),MR,MR,True,ankle,ankle,True,lower extremity,lower extremity,True,left,left,True,WO,W,False,,,True,,,True,,,True,w,,False,,,True
+148,SONO-GUIDED PROCEDURE III (INT),,US,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+149,MRI RT Plan T-Spine (contrast),MR,MR,True,spine.thoracic,spine,False,chest,spine,False,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+150,PM(PET/MRI)-ABD(Liver)+Pelvis (contrast)MRI,MR,PET,False,,liver,False,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+151,MRI SWIFT Brain (noncontrast) (Research),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+152,Rt Ext. iliac arteriography,RF,NM,False,lower extremity arteries,iliac artery,False,lower extremity,lower extremity,True,right,right,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+153,MRI Research - YNE (TBI),MR,MR,True,brain,,False,head,,False,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+154,MRI Pancreatobiliary NRF Research (contrast),MR,MR,True,pancreas,pancreas,True,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+155,Embolization : Rt uterine,,,True,,uterine,False,,pelvis,False,,right,False,,,True,,,True,,embolization,False,,,True,,,True,,,True
+156,MRI Research-mTBI-cohort,,MR,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+157,MRI Research - C-spine KSM_GN42272,MR,MR,True,spine.cervical,spine,False,neck,neck,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+158,MRI Rectum + Whole body diffusion (contrast),MR,MR,True,,rectum,False,abdomen,whole body,False,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+159,EBD tube check,RF,,False,tube,,False,xxx,,False,,,True,W,,False,Views,,False,,,True,,,True,w,,False,patency,,False
+160,(외부)Myelo-(whole spine),RF,,False,spine.cervical,spine,False,neck,whole body,False,,,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+161,PET/MR Research Brain-LDS-1st,MR,PET,False,brain,brain,True,head,head,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+162,MRI Lt Knee (noncontrast),MR,MR,True,knee,knee,True,lower extremity,lower extremity,True,left,left,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+163,Dural A.V.F embolization (Artery),,,True,,,True,,,True,,,True,WO,,False,,,True,,embolization,False,,a.v.f,False,,,True,,,True
+164,SONO Research ARFI-Tm-LJY,,US,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+165,SONO-GUIDED PROCEDURE III (INT),,US,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+166,SONO Appendix (충수),US,US,True,appendix,appendix,True,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+167,Thoracic aortography,RF,,False,aorta.thoracic,aorta,False,chest,chest,True,,unspecified,False,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+168,UGIS-Gastrografin,RF,,False,gastrointestinal tract.upper,,False,abdomen,,False,,,True,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+169,SONO Radiology consult OB - 1st trimester,US,US,True,,,True,pelvis,abdomen,False,,,True,W,,False,,,True,,,True,,,True,,,True,first trimester,,False
+170,D-L-spine Rt Bending AP,XR,,False,spine.lumbar,spine,False,abdomen,lower extremity,False,,right,False,WO,,False,view; ap,AP,False,,,True,,,True,w,,False,,,True
+171,"TFCA, Rt Common carotid artery",RF,,False,carotid arteries,artery,False,head,neck,False,right,right,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+172,Wrist Both Billiard,XR,,False,hand,wrist,False,upper extremity,upper extremity,True,bilateral,bilateral,True,WO,,False,view,,False,,,True,,,True,,,True,,,True
+173,Wrist Lt Lat(Fx.),XR,XR,True,wrist,wrist,True,upper extremity,lower extremity,False,left,left,True,WO,WO,True,view; lateral,Lateral,False,,,True,,,True,,,True,,,True
+174,PCN tube check Lt,,,True,,,True,,,True,,left,False,,,True,,,True,,,True,,,True,,,True,,,True
+175,Arthrography Rt (MRI 검사용),MR,MR,True,joint,joint,True,xxx,lower extremity,False,,right,False,WO,W,False,,,True,,,True,,,True,w,,False,,,True
+176,CT (Metal) Lower Extremity alignment+3D (noncontrast),CT,CT,True,,lower extremity,False,lower extremity,lower extremity,True,unspecified,unspecified,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+177,Brain A.V.M. embolization,,,True,,brain,False,,head,False,,unspecified,False,WO,,False,,,True,,embolization,False,,,True,,,True,,,True
+178,MRI Lt Hip arthrography(contrast),MR,MR,True,hip,hip,True,lower extremity,lower extremity,True,left,left,True,WO,W,False,,,True,,,True,,,True,w,,False,,,True
+179,MRI C-T-LS-spine Myelogram (noncontrast),MR,MR,True,spine.cervical,spine,False,neck,lower extremity,False,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+180,SONO Liver (Detailed) (Contrast) (Sonazoid* Kit),US,US,True,liver,liver,True,abdomen,abdomen,True,,,True,WO,W,False,,,True,,,True,,,True,,,True,,,True
+181,CT (Metal) Rt Knee Trauma + 3D (noncontrast),CT,CT,True,knee,knee,True,lower extremity,lower extremity,True,right,right,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+182,Lower leg Rt Lat,,,True,,lower leg,False,,lower extremity,False,,right,False,,,True,,Lateral,False,,,True,,,True,,,True,,,True
+183,(외부)PM(PET/MRI)-MRI-Upper extremity,MR,PET,False,,,True,upper extremity,upper extremity,True,unspecified,,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+184,Lt Biliary Stent Placement,,,True,biliary ducts,biliary stent,False,abdomen,abdomen,True,,left,False,W,,False,,,True,placement,placement,True,stent,stent,True,,,True,,,True
+185,MRI Research GS-4566 Rt (contrast),MR,MR,True,,,True,breast,,False,right,right,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+186,MRI Angiography - Abdominal Aorta (contrast),MR,MR,True,abdominal vessels,aorta,False,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+187,Embolization : gastroesoph.varix,,,True,,varix,False,,abdomen,False,,unspecified,False,WO,,False,,,True,,embolization,False,,gastroesophageal varix,False,,,True,,,True
+188,소아SONO Research PED-LSH,US,US,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+189,Lower leg Lt AP,XR,,False,,lower leg,False,lower extremity,lower extremity,True,left,left,True,WO,,False,view; ap,AP,False,,,True,,,True,w,,False,,,True
+190,Infusion for thrombolysis: Extracranial,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,thrombolysis,False
+191,PCN Lt (INT),,,True,,,True,,,True,,left,False,,,True,,,True,,,True,,,True,,,True,,,True
+192,CT Abdomen+Pelvis 3D (noncontrast),CT,CT,True,,abdomen,False,abdomen,abdomen,True,,,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+193,Esophageal stent placement,,,True,,esophagus,False,,abdomen,False,,unspecified,False,,,True,,,True,,placement,False,,stent,False,,,True,,,True
+194,Rt Subclavian arteriography (INT),RF,NM,False,subclavian artery,subclavian artery,True,chest,upper extremity,False,right,right,True,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+195,CT Research Chest -ATHENA/CALLA (contrast_NO CM),CT,CT,True,,,True,chest,chest,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+196,SONO MWA GU (경피적) : 신장암 - 추가시행시,US,US,True,kidney,kidney,True,abdomen,abdomen,True,unspecified,,False,WO,,False,,,True,ablation,,False,tissue,,False,,,True,,kidney cancer,False
+197,Ped MRI Chest (contrast),MR,MR,True,,,True,chest,chest,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+198,(외부)CT-Abdomen & Pelvis (Abdomen),CT,CT,True,,abdomen,False,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+199,CT (Metal) Rt Elbow + 3D (noncontrast),CT,CT,True,elbow,elbow,True,upper extremity,upper extremity,True,right,right,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+200,CT Lt Upper arm + 3D (contrast),CT,CT,True,,upper arm,False,upper extremity,upper extremity,True,left,left,True,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+201,CT Abdomen+Pelvis (noncontrast),CT,CT,True,,abdomen,False,abdomen,abdomen,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+202,"TFCA, Lt Common carotid artery",RF,,False,carotid arteries,artery,False,head,neck,False,left,left,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+203,SONO Transvaginal,US,US,True,,,True,pelvis,pelvis,True,,unspecified,False,WO,,False,transvaginal,,False,,,True,,,True,,,True,,,True
+204,Vascular stents : iliac a.,,,True,,iliac artery,False,,pelvis,False,,unspecified,False,,,True,,,True,,placement,False,,stent,False,,,True,,,True
+205,(HPC) C-spine AP,XR,,False,spine.cervical,cervical spine,False,neck,spine,False,,unspecified,False,WO,WO,True,view; ap,AP,False,,,True,,,True,,,True,,,True
+206,Toe Lt (B)Obl,XR,,False,toes,toe,False,lower extremity,lower extremity,True,bilateral,left,False,WO,,False,Views,Oblique,False,,,True,,,True,,,True,,,True
+207,Vascular stents : subclavian a.,,,True,,subclavian artery,False,,neck,False,,unspecified,False,,,True,,,True,,placement,False,,stent,False,,,True,,,True
+208,MRI Research - CSH(YAD),MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+209,CT Sternum + 3D (noncontrast),CT,CT,True,sternum,sternum,True,chest,chest,True,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+210,SONO Bowel (portable) (소아),US,US,True,,bowel,False,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+211,MRI Research - DWASL,MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+212,CT Angio + 3D Brain + Venography(contrast),CT,CTA,False,head arteries,brain,False,head,head,True,,unspecified,False,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+213,MRI RT Plan T-Spine (non contrast),MR,MR,True,spine.thoracic,spine,False,chest,lower extremity,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+214,Angioplasty: Intracranial arteries,RF,,False,carotid artery.intracranial,arteries,False,head,head,True,,,True,W,,False,,,True,angioplasty,,False,,,True,w,,False,,,True
+215,MRI Urography (소아 dynamic study) (contrast),MR,MR,True,,kidney,False,abdomen,abdomen,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,dynamic,False,,,True
+216,Diagnostic spinal tapping,,,True,,,True,,spine,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+217,Angioplasty : Lt iliac a.,,,True,,iliac artery,False,,pelvis,False,,left,False,,,True,,,True,,angioplasty,False,,,True,,,True,,,True
+218,MRI Brain + Venography (noncontrast),MR,MR,True,brain,brain,True,head,head,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+219,CT Research kidney_ KSY,CT,CT,True,kidney,kidney,True,abdomen,abdomen,True,bilateral,,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+220,Genitography,RF,,False,urethra,,False,pelvis,,False,,,True,W,,False,Views,,False,,,True,,,True,w,,False,,,True
+221,SONO Neck Except Thyroid/Parathyroid,US,US,True,,neck,False,neck,neck,True,,unspecified,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+222,MRI T-spine: Thin Section (OP) (contrast),MR,MR,True,spine.thoracic,spine,False,chest,spine,False,,unspecified,False,W,W,True,,Thin Section,False,,,True,,,True,w,,False,,,True
+223,Fluoroscopic foreign body removal (INT),RF,RF,True,,,True,,,True,,,True,WO,,False,,,True,substance removal,removal,False,foreign body,foreign body,True,,,True,,,True
+224,Chest PA (미국 비자발급용),XR,XR,True,,,True,chest,chest,True,,unspecified,False,WO,WO,True,view; pa upright,PA,False,,,True,,,True,,,True,,,True
+225,SONO Lymph node (1부위),US,US,True,,lymph node,False,,unspecified,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+226,SONO Research CEUS - YJI,,US,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+227,MRI Research_ Others KHJ (noncontrast),MR,MR,True,,,True,,,True,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+228,MRI Research - Brain KSM_GN42272,MR,MR,True,brain,brain,True,head,head,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+229,(HPC) L-S-spine AP,XR,XR,True,spine.lumbar,spine,False,abdomen,lower extremity,False,,unspecified,False,WO,WO,True,view; ap,AP,False,,,True,,,True,,,True,,,True
+230,Hand Lt Obl,XR,,False,hand,hand,True,upper extremity,upper extremity,True,left,left,True,WO,,False,view,Oblique,False,,,True,,,True,,,True,,,True
+231,"MRI Rt Ankle (감염, 관절염) (contrast)",MR,MR,True,ankle,ankle,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,,True,,,True,,,True,w,,False,,"infection, arthritis",False
+232,Research DEXA - Lt Knee,,DXA,False,,knee,False,,lower extremity,False,,left,False,,WO,False,,,True,,,True,,,True,,,True,,,True
+233,MRI Research-SMW(TINN),MR,MR,True,,,True,,,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+234,D-L-spine AP(stand),XR,,False,spine.lumbar,spine,False,abdomen,lower extremity,False,,left,False,WO,,False,view; ap,AP,False,,,True,,,True,,,True,,,True
+235,CT Sacrum Trauma + 3D (noncontrast),CT,CT,True,spine.lumbar,sacrum,False,abdomen,pelvis,False,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+236,"MRI Orbit - Optic nerve, mass (contrast)",MR,MR,True,orbit,optic nerve,False,head,head,True,unspecified,unspecified,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+237,Sclerotherapy: Check (INT),,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+238,CT Perfusion Brain (contrast),CT,CT,True,,brain,False,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+239,MRI Brain + Brain MRA + Carotid MRA + Diffusion (non contra,MR,MR,True,brain,brain,True,head,head,True,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+240,SONO Doppler UE vein Rt (Portable),US,US,True,upper extremity vein,vein,False,upper extremity,upper extremity,True,right,right,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+241,CT Rt Lower leg Trauma + 3D (noncontrast),CT,CT,True,lower leg,lower leg,True,lower extremity,lower extremity,True,right,right,True,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,trauma,False
+242,Ped MRI Lymphangiography (noncontrast),MR,MR,True,,lymphatic system,False,,unspecified,False,,unspecified,False,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+243,CT Research Liver-optima (contrast),CT,CT,True,liver,liver,True,abdomen,abdomen,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+244,MRI RT Plan Pancreas (contrast),MR,MR,True,pancreas,pancreas,True,abdomen,abdomen,True,,unspecified,False,W,W,True,,,True,,,True,,,True,w,,False,,,True
+245,MRI Research SVD - Perfusion (contrast),,MR,False,,,True,,,True,,,True,W,W,True,,,True,,,True,,,True,,,True,,,True
+246,Hip Rt Translateral,XR,,False,hip,hip,True,lower extremity,lower extremity,True,right,right,True,WO,,False,view,Translateral,False,,,True,,,True,,,True,,,True
+247,SONO Abdominal wall,US,US,True,,abdominal wall,False,abdomen,abdomen,True,,,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+248,CT Sella (3P) (contrast),CT,CT,True,posterior fossa,sella,False,head,head,True,,unspecified,False,W,W,True,,3P,False,,,True,,,True,w,,False,,,True
+249,Colon,,,True,,colon,False,,abdomen,False,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+250,CT Research Chest(contrast) WO42017,,CT,False,,chest,False,,chest,False,,unspecified,False,,W,False,,,True,,,True,,,True,,,True,,,True
+251,Change of Ureter stent Both (INT),,,True,ureter,ureter,True,abdomen,abdomen,True,unspecified,bilateral,False,W,,False,,,True,placement,,False,stent,,False,,,True,,,True
+252,DVD Print(원외용)/장,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+253,Fluoroscopy(contrast),RF,RF,True,,,True,,,True,,,True,W,W,True,Views,,False,,,True,,,True,w,,False,,,True
+254,MRI Brain Epilepsy (contrast),MR,MR,True,brain,brain,True,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,epilepsy,False
+255,PCN Lt,,,True,,,True,,,True,,left,False,,,True,,,True,,,True,,,True,,,True,,,True
+256,CT (Metal) Hip (arthroplasty) + 3D (noncontrast),CT,CT,True,hip,hip,True,lower extremity,lower extremity,True,unspecified,,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,,True
+257,Spinal angiogram: 5-10vessels,RF,,False,spine vessel,,False,xxx,spine,False,,,True,WO,,False,Views,,False,,,True,,,True,,,True,,,True
+258,(Accel) MRI Brain + Brain MRA + Carotid MRA (contrast),,MR,False,,brain,False,,head,False,,unspecified,False,W,W,True,,,True,,,True,,,True,,,True,,,True
+259,CT Angio + 3D Neck(contrast),CT,CTA,False,,neck,False,neck,head,False,,unspecified,False,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+260,Knee Both Skyline(1매),XR,,False,knee,knee,True,lower extremity,lower extremity,True,bilateral,bilateral,True,WO,,False,views 1 or 2,Skyline,False,,,True,,,True,,,True,,,True
+261,CT Research liver+pelvis-W(contrast),CT,CT,True,,liver,False,abdomen,pelvis,False,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+262,CT Chest ILD Insp + 3D (noncontrast),CT,CT,True,,lung,False,chest,chest,True,,unspecified,False,WO,WO,True,,3D,False,,,True,,,True,wo,,False,,ild,False
+263,CT (Metal) Rt Wrist + 3D (contrast),CT,CT,True,wrist,wrist,True,upper extremity,upper extremity,True,right,right,True,W,W,True,,3D,False,,,True,,,True,w,,False,,,True
+264,"SONO Obstetric (Radiology) - 태아정밀(Anomaly) (Triplet)-2,3st trimester",US,US,True,,fetus,False,pelvis,abdomen,False,,unspecified,False,W,,False,,,True,,,True,,,True,,,True,second or third trimester,anomaly,False
+265,CR 추가,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True,,,True
+266,Spinal puncture with contrast injection for CT(Musculoskelet,CT,CT,True,spine,spine,True,xxx,spine,False,,unspecified,False,W,W,True,,,True,,injection,False,,,True,w,,False,,,True
+267,Cross table Both Lat,XR,,False,hip,,False,lower extremity,,False,bilateral,bilateral,True,WO,,False,view; lateral crosstable,crosstable lateral,False,,,True,,,True,,,True,,,True
+268,MRI Cine Spinal cord (noncontrast),MR,MR,True,spine,spinal cord,False,xxx,spine,False,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+269,MRI Rt Knee - T2 Mapping (noncontrast),MR,MR,True,knee,knee,True,lower extremity,lower extremity,True,right,right,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+270,C-spine Lat(ext),XR,,False,spine.cervical,spine,False,neck,neck,True,,unspecified,False,WO,WO,True,view; lateral,Lateral,False,,,True,,,True,w,,False,,,True
+271,PCN tube change Lt,,,True,,,True,,,True,,left,False,,,True,,,True,,,True,,,True,,,True,,,True
+272,Forearm Rt (B)Obl(2회),XR,,False,,forearm,False,upper extremity,upper extremity,True,bilateral,right,False,WO,,False,views 2,Oblique,False,,,True,,,True,,,True,,,True
+273,Elbow Both (B)Obl(2회),XR,,False,elbow,elbow,True,upper extremity,upper extremity,True,bilateral,bilateral,True,WO,,False,views; oblique,Oblique,False,,,True,,,True,,,True,,,True
+274,Ureter dilatation Rt,,,True,,ureter,False,,abdomen,False,,right,False,,,True,,,True,,,True,,,True,,,True,,,True
+275,MRI CE-MRA(Intracranial) (contrast),MR,MR,True,brain,brain,True,head,head,True,,,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+276,SONO Neck Except Thyroid/Parathyroid + Doppler,US,US,True,neck vessels,neck,False,neck,neck,True,unspecified,unspecified,True,WO,,False,,,True,,,True,,,True,,,True,,,True
+277,Ped MRI Lymphangiography (contrast),,MR,False,,lymphatic system,False,,unspecified,False,,unspecified,False,,W,False,,,True,,,True,,,True,,,True,,,True
+278,CT (Metal) Rt Knee Trauma + 3D (contrast),CT,CT,True,knee,knee,True,lower extremity,lower extremity,True,right,right,True,W,W,True,,3D,False,,,True,,,True,w,,False,,trauma,False
+279,CT Research-IQon-Noncontrast-MSK-CJY,CT,CT,True,spine,,False,xxx,musculoskeletal,False,,,True,WO,WO,True,,,True,,,True,,,True,wo,,False,,,True
+280,Digital Breast Tomosynthesis Lt,MG,MG,True,,breast,False,breast,chest,False,left,left,True,WO,,False,,,True,,,True,,,True,,,True,diagnostic,,False
+281,MRI Lt Brachial plexus (종양) (contrast),MR,MR,True,,brachial plexus,False,upper extremity,neck,False,left,left,True,W,W,True,,,True,,,True,,,True,w,,False,,,True
+282,(외부)MRI LS-spine,MR,MR,True,spine.lumbar,spine,False,abdomen,lower extremity,False,,unspecified,False,WO,,False,,,True,,,True,,,True,,,True,,,True
+283,CT Whole body Low Dose + 3D (noncontrast),CT,CT,True,,,True,whole body,whole body,True,,,True,WO,WO,True,,,True,,,True,,,True,,,True,,,True
+284,Lt Inferior phrenic arteriography,,NM,False,,inferior phrenic artery,False,,abdomen,False,,left,False,,,True,,,True,,,True,,,True,,,True,,,True

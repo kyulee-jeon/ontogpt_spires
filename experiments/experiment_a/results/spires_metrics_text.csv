@@ -1,0 +1,11 @@
+system,attribute,is_core,precision,recall,f1,accuracy,TP,FP,FN,TN,n_gold,n_pred
+SPIRES,modality,True,0.8254,0.6783,0.7446,0.6469,156,33,74,40,230,189
+SPIRES,anatomy_focus,True,0.4381,0.5823,0.5,0.454,92,118,66,61,158,210
+SPIRES,anatomy_region,False,0.6781,0.7383,0.7069,0.5982,158,75,56,37,214,233
+SPIRES,laterality,True,0.4412,0.8242,0.5747,0.6199,75,95,16,106,91,170
+SPIRES,contrast,True,0.9444,0.562,0.7047,0.6069,136,8,106,40,242,144
+SPIRES,view,False,0.0,0.0,0.0,0.5826,0,75,59,187,59,75
+SPIRES,guidance_action,False,0.3214,0.4091,0.36,0.8897,9,19,13,249,22,28
+SPIRES,guidance_object,False,0.2353,0.3077,0.2667,0.9239,4,13,9,263,13,17
+SPIRES,timing,False,0.0,0.0,0.0,0.547,0,3,127,157,127,3
+SPIRES,reason,False,0.0,0.0,0.0,0.8916,0,23,8,255,8,23

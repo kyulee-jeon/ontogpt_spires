@@ -1,0 +1,19 @@
+{
+  "n_total": 285,
+  "n_has_loinc": 242,
+  "n_no_loinc": 43,
+  "sample_accuracy": 0.0386,
+  "sample_correct": 11,
+  "detection_accuracy": 0.8772,
+  "detection_precision": 0.8736,
+  "detection_recall": 1.0,
+  "detection_f1": 0.9326,
+  "detection_TP": 242,
+  "detection_FP": 35,
+  "detection_FN": 0,
+  "detection_TN": 8,
+  "has_loinc_all_attr_correct": 3,
+  "has_loinc_all_attr_correct_rate": 0.0124,
+  "no_loinc_abstain_correct": 8,
+  "no_loinc_abstain_correct_rate": 0.186
+}

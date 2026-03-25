@@ -1,0 +1,11 @@
+system,attribute,is_core,precision,recall,f1,accuracy,TP,FP,FN,TN,n_gold,n_pred,grounding_fail,grounded
+SPIRES (grounded),modality,True,0.8413,0.6795,0.7518,0.65,159,30,75,36,234,189,0,True
+SPIRES (grounded),anatomy_focus,True,0.5056,0.5759,0.5385,0.517,91,89,67,76,158,180,30,True
+SPIRES (grounded),anatomy_region,False,0.7453,0.7383,0.7418,0.6474,158,54,56,44,214,212,21,True
+SPIRES (grounded),laterality,True,0.4412,0.8242,0.5747,0.6199,75,95,16,106,91,170,0,True
+SPIRES (grounded),contrast,True,0.9444,0.562,0.7047,0.6069,136,8,106,40,242,144,0,False
+SPIRES (grounded),view,False,0.0,0.0,0.0,0.5826,0,75,59,187,59,75,0,False
+SPIRES (grounded),guidance_action,False,0.3333,0.4091,0.3673,0.8927,9,18,13,249,22,27,1,True
+SPIRES (grounded),guidance_object,False,0.3333,0.3077,0.32,0.941,4,8,9,267,13,12,5,True
+SPIRES (grounded),timing,False,0.0,0.0,0.0,0.547,0,3,127,157,127,3,0,False
+SPIRES (grounded),reason,False,0.0,0.0,0.0,0.8916,0,23,8,255,8,23,0,False

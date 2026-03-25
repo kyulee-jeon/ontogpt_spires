@@ -1,0 +1,117 @@
+id: http://w3id.org/ontogpt/radiology_procedure
+name: radiology_procedure
+title: Radiology Procedure Attribute Extraction Template
+description: >-
+  Template for extracting structured attributes from radiology procedure names.
+  Designed for LOINC/RSNA Radiology Playbook attribute comparison.
+license: https://creativecommons.org/publicdomain/zero/1.0/
+prefixes:
+  radiology_procedure: http://w3id.org/ontogpt/radiology_procedure/
+  linkml: https://w3id.org/linkml/
+
+default_prefix: radiology_procedure
+default_range: string
+
+imports:
+  - linkml:types
+  - core
+
+classes:
+  RadiologyProcedure:
+    tree_root: true
+    description: >-
+      A radiology imaging procedure with structured clinical attributes
+      extracted from a procedure name or order text.
+    attributes:
+      modality:
+        description: >-
+          Imaging modality using standard LOINC abbreviations.
+          Examples: CT, MR, US, XR (plain radiograph/X-ray), NM (nuclear medicine),
+          RF (fluoroscopy), PET, MG (mammography), CTA (CT angiography),
+          MRA (MR angiography), SPECT.
+          Map common synonyms: MRI->MR, Sono/Sonography->US, X-ray->XR,
+          Ultrasound->US, PET/CT->PET, PET/MR->PET.
+          Return null if not determinable.
+        range: string
+
+      anatomy_focus:
+        description: >-
+          The most specific anatomic target or organ being imaged.
+          Use standard English anatomic terms, lowercase singular form.
+          Examples: brain, knee, liver, lung, breast, spine, aorta,
+          ankle, shoulder, hip, wrist, elbow, thyroid, prostate.
+          If multiple specific foci, list the primary one.
+          Return null if only a broad region is known.
+        range: string
+
+      anatomy_region:
+        description: >-
+          The broader anatomic region containing the imaging focus.
+          Use standard terms, lowercase.
+          Examples: head, chest, abdomen, pelvis, spine, upper extremity,
+          lower extremity, neck, whole body.
+          Return null if not specified.
+        range: string
+
+      laterality:
+        description: >-
+          Anatomic side. Use exactly one of these values:
+          "left", "right", "bilateral", "unspecified".
+          Common abbreviations to map: Rt/RT/right->right, Lt/LT/left->left,
+          Both/bil/bilateral->bilateral.
+          Return null ONLY if laterality is truly not applicable
+          (e.g., organs without a side like aorta, brain midline structures).
+          Return "unspecified" if the procedure involves a paired organ
+          but side is not mentioned.
+        range: string
+
+      contrast:
+        description: >-
+          Contrast administration status. Use exactly one of:
+          "W" (with contrast), "WO" (without contrast), "W_WO" (with and without contrast).
+          Inference rules: "(contrast)" or "W contrast" -> W,
+          "(noncontrast)" or "WO contrast" or "non-contrast" or "without contrast" -> WO,
+          "W and WO contrast" or "before and after contrast" -> W_WO.
+          When no contrast information is available, infer from clinical context:
+          most plain X-rays (XR, MG) -> WO; procedural guidance -> WO.
+          Return null only if truly indeterminate.
+        range: string
+
+      view:
+        description: >-
+          View type or number of views if specified.
+          Examples: "AP", "Lateral", "2 views", "single view", "3 views",
+          "Oblique", "PA", "AP and Lateral", "crosstable lateral".
+          Return null if view information is not specified.
+        range: string
+
+      guidance_action:
+        description: >-
+          For interventional/guidance procedures: the procedural action performed.
+          Examples: biopsy, injection, drainage, placement, localization,
+          vertebroplasty, aspiration, ablation, embolization, stent placement.
+          Return null if this is a diagnostic (non-interventional) imaging study.
+        range: string
+
+      guidance_object:
+        description: >-
+          Target of the guidance procedure: what is being targeted or placed.
+          Examples: nerve, mass, catheter, stent, needle, abscess, fluid collection.
+          Return null if not a guidance procedure or not specified.
+        range: string
+
+      timing:
+        description: >-
+          Temporal context if explicitly stated in the procedure name.
+          Examples: "pre-procedure", "post-contrast", "dynamic", "during surgery",
+          "delayed", "early", "follow-up".
+          Return null if not specified.
+        range: string
+
+      reason:
+        description: >-
+          Clinical indication or reason for the exam if explicitly stated.
+          Examples: "trauma", "metastasis", "cancer screening", "infection",
+          "post-operative", "staging".
+          Return null if not explicitly stated in the procedure name.
+        range: string

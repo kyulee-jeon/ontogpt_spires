@@ -1,0 +1,4277 @@
+[
+  {
+    "local_name": "1 Level bilateral Transforaminal epidural injection -Cervical",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "cervical",
+      "anatomy_region": "neck",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "injection",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Foot & Ankle Rt Lat (DF)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Reposition of Ureter stent Lt (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "ureter",
+      "anatomy_region": "abdomen",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "reposition",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Thyroid (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "thyroid",
+      "anatomy_region": "neck",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI-Brain-SVD (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Femur Both Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "femur",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Myelo-(C+T,T+L)(Musculoskeletal)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "musculoskeletal",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Research Gun Biopsy - Breast",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "breast",
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "biopsy",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Angio + 3D Pulmonary artery (thoracoabdominal PPVI)(contrast)-(소아)",
+    "spires": {
+      "modality": "CTA",
+      "anatomy_focus": "pulmonary artery",
+      "anatomy_region": "thoracoabdominal",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Growth Plate (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "growth plate",
+      "anatomy_region": "unspecified",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Defecography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PCN tube reposition Rt",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "reposition",
+      "guidance_object": "tube",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Chest Lt Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research PRISM study (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Navigation (contrast) (SEEG)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Rt Lower leg Trauma + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "CT Hip Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "Mammography Lt -SONO Localization 용",
+    "spires": {
+      "modality": "MG",
+      "anatomy_focus": "breast",
+      "anatomy_region": null,
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "localization",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Angioplasty : other central veins",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "angioplasty",
+      "guidance_object": "central veins",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Chest wall (contrast)MRI",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "chest wall",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Brain routine (T2 thin section) (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": "T2 thin section",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Lt Ankle Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "Shoulder Both AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "shoulder",
+      "anatomy_region": "upper extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Lower Extremity alignment+3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lower extremity",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Femur Rt (B)Obl(2매)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "femur",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PET/MR Research Brain-RBD-JKY",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped CT Chest Hemoptysis (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lung",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "hemoptysis"
+    }
+  },
+  {
+    "local_name": "Hip Cross table Lat Both",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Crosstable Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Knee Patellar Dislocation (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "patellar dislocation"
+    }
+  },
+  {
+    "local_name": "MRI Brain-RLS (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Gun Biopsy - Head/Face (2 site)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "2 views",
+      "guidance_action": "biopsy",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI IAC (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Toe Rt AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "toe",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain GK-FSRS (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Thigh Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "thigh",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "MRI Research-KJW (cap)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Wrist Lt (B)Obl(2회)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "wrist",
+      "anatomy_region": "upper extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Methionine 2nd MRI Glioma PM(PET/MRI) (contrast)",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "glioma",
+      "anatomy_region": "brain",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Ankle (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Foot Trauma + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "Elbow Rt AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "elbow",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Teleradiogram Lt Lat (Lower Ext)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "lower extremity",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Toe Rt (B)Obl",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "toe",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Liver(Stomach cancer)+Pelvis (contrast )(Gadovis",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "stomach cancer"
+    }
+  },
+  {
+    "local_name": "SONO Obstetric (Radiology) -태아정밀(Anomaly) (twin)-1st trimester",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "fetus",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Brain GKNP (contrast) MRI",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Pancreas Biliary DOTA-TOC (contrast) MRI",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "pancreas",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Rt Thigh + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "thigh",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO RFA MSK (1st)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "musculoskeletal",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - Perfusion(CWS)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Extended LS-spine (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Foot & Ankle Rt Lat (PF)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research-SJJ(TN)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Both Subclavian arteriography (INT)",
+    "spires": {
+      "modality": "NM",
+      "anatomy_focus": "subclavian artery",
+      "anatomy_region": "upper extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Epilepsy post op (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": "post-contrast",
+      "reason": "epilepsy"
+    }
+  },
+  {
+    "local_name": "(외부)MRI-Knee",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(HPC) Chest Both Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Hip AP (Push)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Infantogram",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Stereotaxic (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Knee Both AP(supine)(1매)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": "WO",
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Reposition of Ureter stent Rt (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "ureter",
+      "anatomy_region": "abdomen",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "reposition",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Gastrojejunostomy tube check",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Parkinson(noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain MRA (Aneurysm) (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Elbow Lt AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "elbow",
+      "anatomy_region": "upper extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped CT Research Whole Body - CTJ",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": "whole body",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "1 Level single Medial branch block ; MBB",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Elbow Rt(팔꿈치관절 편측)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "elbow",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Rotation study(Tiba)+3D (noncontrast)(소아)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Hip Both Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Vascular stents : aorta a. (MFM)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "aorta",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "placement",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Cardiac - Congenital (Cine+VENC+DE) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "heart",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "Cine+VENC+DE",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Chest Lt Decubitus",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Decubitus",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan Abdomen (non contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "abdomen",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SBS (3개월 미만 소아)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Chest Diagnostic (Portable)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Gastrojejunostomy tube reposition",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Rectum+Abdomen (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "rectum",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Renal Cyst Aspiration (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": "aspiration",
+      "guidance_object": "cyst",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Knee Both (B)Obl",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Obl",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO-GUIDED PROCEDURE III (PED)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Teleradiogram (Upper Ext)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "upper extremity",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Research Body - KHJ",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": "whole body",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Chest GJM Research",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Needle Aspiration - Head/Face (3 site 이상)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": "aspiration",
+      "guidance_object": "needle",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Arteriography + CE- MRA (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI C-spine:non-HIVD (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)PM(PET/MRI)-MRI-Pelvis(GU)",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "pelvis",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Femur Lt (B)Obl(2매)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "femur",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Robot) Lower Extremity alignment + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lower extremity",
+      "anatomy_region": "lower extremity",
+      "laterality": null,
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Lt Foot + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped CT Chest (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "chest",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain (IICP) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "IICP"
+    }
+  },
+  {
+    "local_name": "Knee Both Ant.draw",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain FU Acute Stroke (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": "FU",
+      "reason": "Acute Stroke"
+    }
+  },
+  {
+    "local_name": "Ped MRI Anorectum (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "anorectum",
+      "anatomy_region": "pelvis",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "T-M Joint",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Intercostal arteriography 5-10vessels(Lt)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "intercostal artery",
+      "anatomy_region": "chest",
+      "laterality": "left",
+      "contrast": null,
+      "view": "5-10 views",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT-Guided Biopsy (Upper Ex.) (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": "upper extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": "biopsy",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped CT Nasal bone + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "nasal bone",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Research Heart",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "heart",
+      "anatomy_region": "chest",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Foot Rt Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Lat",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "T-spine Lat(neut)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Extended T-Spine: non-HIVD (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "thoracic spine",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research_parkinsonism",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Liver+Pelvis 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO RFA GU (개복술하): 신장암 - Multiple tumors",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "RFA",
+      "guidance_object": "tumors",
+      "timing": null,
+      "reason": "kidney cancer"
+    }
+  },
+  {
+    "local_name": "3 Levels single Transforaminal epidural injection -Lumbar",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "lumbar",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": "injection",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT C-Spine + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "spine",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Intervention Chest PCD tube check",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CVC Non-Tunnel method with fluoroscopy",
+    "spires": {
+      "modality": "RF",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Angioplasty : Rt subclavian v.",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "subclavian vein",
+      "anatomy_region": "neck",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "angioplasty",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Sup. Rt.Venacavography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Coronary Artery Calcium Scoring (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "coronary artery",
+      "anatomy_region": "heart",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)MRI-Ankle",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Knee Lt Lat(60oF)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Doppler LE vein (Varicose) Rt",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "vein",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "varicose"
+    }
+  },
+  {
+    "local_name": "SONO Needle Aspiration - Head/Face",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": "aspiration",
+      "guidance_object": "needle",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped CT Brain (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan Prostate (non contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "prostate",
+      "anatomy_region": "pelvis",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Rt. Pulmonary arteriography",
+    "spires": {
+      "modality": "NM",
+      "anatomy_focus": "pulmonary artery",
+      "anatomy_region": "chest",
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Chest Low Dose + 3D (Prone) (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lung",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Abdominal aortography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "aorta",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Liver Mass (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PCN tube reposition Rt (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "reposition",
+      "guidance_object": "tube",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI NP-Dementia Brain+DTI(DWI)+MRA(Intra+Caro) (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Bone age",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan Upper Extremity (non contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "upper extremity",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research Spleen volume INCB",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spleen",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI PNS oropharynx_flap (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "oropharynx",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Research Doppler - KHJ (소아)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Foot (종양) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Brain Tumor DTI (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI IAC cochlear implant (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "cochlea",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Urography (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)CT-Spine",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Lower leg (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Foot Rt(족부관절 편측)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "foot",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Hand Both PA (PED 0-24mo)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hand",
+      "anatomy_region": "upper extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "PA",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Doppler Liver",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Doppler Liver (Detailed) (소아)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-Rt Lower leg (contrast)MRI",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Brachial plexus + Neurography (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brachial plexus",
+      "anatomy_region": "neck",
+      "laterality": "left",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Larynx (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "larynx",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(HPC) D-L-spine Lat(standing)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Both Pulmonary arteriography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "pulmonary artery",
+      "anatomy_region": "chest",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Ankle arthrography (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO-GUIDED PROCEDURE III (INT)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan T-Spine (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PM(PET/MRI)-ABD(Liver)+Pelvis (contrast)MRI",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI SWIFT Brain (noncontrast) (Research)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Rt Ext. iliac arteriography",
+    "spires": {
+      "modality": "NM",
+      "anatomy_focus": "iliac artery",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - YNE (TBI)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Pancreatobiliary NRF Research (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "pancreas",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Embolization : Rt uterine",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "uterine",
+      "anatomy_region": "pelvis",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "embolization",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research-mTBI-cohort",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - C-spine KSM_GN42272",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "neck",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Rectum + Whole body diffusion (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "rectum",
+      "anatomy_region": "whole body",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "EBD tube check",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)Myelo-(whole spine)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "whole body",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PET/MR Research Brain-LDS-1st",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Knee (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Dural A.V.F embolization (Artery)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "embolization",
+      "guidance_object": "A.V.F",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Research ARFI-Tm-LJY",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO-GUIDED PROCEDURE III (INT)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Appendix (충수)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "appendix",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Thoracic aortography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "aorta",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "UGIS-Gastrografin",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Radiology consult OB - 1st trimester",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "D-L-spine Rt Bending AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "TFCA, Rt Common carotid artery",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "artery",
+      "anatomy_region": "neck",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Wrist Both Billiard",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "wrist",
+      "anatomy_region": "upper extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Wrist Lt Lat(Fx.)",
+    "spires": {
+      "modality": "XR",
+      "anatomy_focus": "wrist",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": "Lat",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PCN tube check Lt",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Arthrography Rt (MRI 검사용)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "joint",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Lower Extremity alignment+3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lower extremity",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Brain A.V.M. embolization",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "embolization",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Hip arthrography(contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI C-T-LS-spine Myelogram (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Liver (Detailed) (Contrast) (Sonazoid* Kit)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Knee Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "Lower leg Rt Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)PM(PET/MRI)-MRI-Upper extremity",
+    "spires": {
+      "modality": "PET",
+      "anatomy_focus": null,
+      "anatomy_region": "upper extremity",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Lt Biliary Stent Placement",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "biliary stent",
+      "anatomy_region": "abdomen",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "placement",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research GS-4566 Rt (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Angiography - Abdominal Aorta (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "aorta",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Embolization : gastroesoph.varix",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "varix",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "embolization",
+      "guidance_object": "gastroesophageal varix",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "소아SONO Research PED-LSH",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Lower leg Lt AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Infusion for thrombolysis: Extracranial",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "thrombolysis"
+    }
+  },
+  {
+    "local_name": "PCN Lt (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Abdomen+Pelvis 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "abdomen",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Esophageal stent placement",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "esophagus",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "placement",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Rt Subclavian arteriography (INT)",
+    "spires": {
+      "modality": "NM",
+      "anatomy_focus": "subclavian artery",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research Chest -ATHENA/CALLA (contrast_NO CM)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO MWA GU (경피적) : 신장암 - 추가시행시",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "kidney cancer"
+    }
+  },
+  {
+    "local_name": "Ped MRI Chest (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)CT-Abdomen & Pelvis (Abdomen)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "abdomen",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Elbow + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "elbow",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Lt Upper arm + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "upper arm",
+      "anatomy_region": "upper extremity",
+      "laterality": "left",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Abdomen+Pelvis (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "abdomen",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "TFCA, Lt Common carotid artery",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "artery",
+      "anatomy_region": "neck",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Transvaginal",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": "pelvis",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Vascular stents : iliac a.",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "iliac artery",
+      "anatomy_region": "pelvis",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "placement",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(HPC) C-spine AP",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "cervical spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Toe Lt (B)Obl",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "toe",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Vascular stents : subclavian a.",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "subclavian artery",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "placement",
+      "guidance_object": "stent",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - CSH(YAD)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Sternum + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "sternum",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Bowel (portable) (소아)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "bowel",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - DWASL",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Angio + 3D Brain + Venography(contrast)",
+    "spires": {
+      "modality": "CTA",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan T-Spine (non contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Angioplasty: Intracranial arteries",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "arteries",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Urography (소아 dynamic study) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": "dynamic",
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Diagnostic spinal tapping",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "spine",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Angioplasty : Lt iliac a.",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "iliac artery",
+      "anatomy_region": "pelvis",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": "angioplasty",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain + Venography (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research kidney_ KSY",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "kidney",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Genitography",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Neck Except Thyroid/Parathyroid",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "neck",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI T-spine: Thin Section (OP) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "Thin Section",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Fluoroscopic foreign body removal (INT)",
+    "spires": {
+      "modality": "RF",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": "removal",
+      "guidance_object": "foreign body",
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Chest PA (미국 비자발급용)",
+    "spires": {
+      "modality": "XR",
+      "anatomy_focus": null,
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "PA",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Lymph node (1부위)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "lymph node",
+      "anatomy_region": "unspecified",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Research CEUS - YJI",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research_ Others KHJ (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research - Brain KSM_GN42272",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(HPC) L-S-spine AP",
+    "spires": {
+      "modality": "XR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Hand Lt Obl",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hand",
+      "anatomy_region": "upper extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Rt Ankle (감염, 관절염) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "ankle",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "infection, arthritis"
+    }
+  },
+  {
+    "local_name": "Research DEXA - Lt Knee",
+    "spires": {
+      "modality": "DXA",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research-SMW(TINN)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "D-L-spine AP(stand)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "left",
+      "contrast": null,
+      "view": "AP",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Sacrum Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "sacrum",
+      "anatomy_region": "pelvis",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "MRI Orbit - Optic nerve, mass (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "optic nerve",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Sclerotherapy: Check (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Perfusion Brain (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain + Brain MRA + Carotid MRA + Diffusion (non contra",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Doppler UE vein Rt (Portable)",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "vein",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Rt Lower leg Trauma + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lower leg",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "Ped MRI Lymphangiography (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "lymphatic system",
+      "anatomy_region": "unspecified",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research Liver-optima (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "liver",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI RT Plan Pancreas (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "pancreas",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Research SVD - Perfusion (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Hip Rt Translateral",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Translateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Abdominal wall",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "abdominal wall",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Sella (3P) (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "sella",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "3P",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Colon",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "colon",
+      "anatomy_region": "abdomen",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research Chest(contrast) WO42017",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "chest",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Change of Ureter stent Both (INT)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "ureter",
+      "anatomy_region": "abdomen",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "DVD Print(원외용)/장",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Fluoroscopy(contrast)",
+    "spires": {
+      "modality": "RF",
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Brain Epilepsy (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "epilepsy"
+    }
+  },
+  {
+    "local_name": "PCN Lt",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Hip (arthroplasty) + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "hip",
+      "anatomy_region": "lower extremity",
+      "laterality": null,
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Spinal angiogram: 5-10vessels",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": "spine",
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(Accel) MRI Brain + Brain MRA + Carotid MRA (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brain",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Angio + 3D Neck(contrast)",
+    "spires": {
+      "modality": "CTA",
+      "anatomy_focus": "neck",
+      "anatomy_region": "head",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Knee Both Skyline(1매)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Skyline",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Research liver+pelvis-W(contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "liver",
+      "anatomy_region": "pelvis",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Chest ILD Insp + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "lung",
+      "anatomy_region": "chest",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "ILD"
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Wrist + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "wrist",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Obstetric (Radiology) - 태아정밀(Anomaly) (Triplet)-2,3st trimester",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "fetus",
+      "anatomy_region": "abdomen",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "anomaly"
+    }
+  },
+  {
+    "local_name": "CR 추가",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": null,
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Spinal puncture with contrast injection for CT(Musculoskelet",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "spine",
+      "anatomy_region": "spine",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": "injection",
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Cross table Both Lat",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "crosstable lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Cine Spinal cord (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spinal cord",
+      "anatomy_region": "spine",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Rt Knee - T2 Mapping (noncontrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "C-spine Lat(ext)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "spine",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": "WO",
+      "view": "Lateral",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "PCN tube change Lt",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": null,
+      "anatomy_region": null,
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Forearm Rt (B)Obl(2회)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "forearm",
+      "anatomy_region": "upper extremity",
+      "laterality": "right",
+      "contrast": null,
+      "view": "Oblique",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Elbow Both (B)Obl(2회)",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "elbow",
+      "anatomy_region": "upper extremity",
+      "laterality": "bilateral",
+      "contrast": null,
+      "view": "Obl",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ureter dilatation Rt",
+    "spires": {
+      "modality": null,
+      "anatomy_focus": "ureter",
+      "anatomy_region": "abdomen",
+      "laterality": "right",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI CE-MRA(Intracranial) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "intracranial",
+      "anatomy_region": "head",
+      "laterality": null,
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "SONO Neck Except Thyroid/Parathyroid + Doppler",
+    "spires": {
+      "modality": "US",
+      "anatomy_focus": "neck",
+      "anatomy_region": "neck",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Ped MRI Lymphangiography (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "lymphatic system",
+      "anatomy_region": "unspecified",
+      "laterality": "unspecified",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT (Metal) Rt Knee Trauma + 3D (contrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": "knee",
+      "anatomy_region": "lower extremity",
+      "laterality": "right",
+      "contrast": "W",
+      "view": "3D",
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": "trauma"
+    }
+  },
+  {
+    "local_name": "CT Research-IQon-Noncontrast-MSK-CJY",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": "musculoskeletal",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Digital Breast Tomosynthesis Lt",
+    "spires": {
+      "modality": "MG",
+      "anatomy_focus": "breast",
+      "anatomy_region": "chest",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "MRI Lt Brachial plexus (종양) (contrast)",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "brachial plexus",
+      "anatomy_region": "neck",
+      "laterality": "left",
+      "contrast": "W",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "(외부)MRI LS-spine",
+    "spires": {
+      "modality": "MR",
+      "anatomy_focus": "spine",
+      "anatomy_region": "lower extremity",
+      "laterality": "unspecified",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "CT Whole body Low Dose + 3D (noncontrast)",
+    "spires": {
+      "modality": "CT",
+      "anatomy_focus": null,
+      "anatomy_region": "whole body",
+      "laterality": null,
+      "contrast": "WO",
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  },
+  {
+    "local_name": "Lt Inferior phrenic arteriography",
+    "spires": {
+      "modality": "NM",
+      "anatomy_focus": "inferior phrenic artery",
+      "anatomy_region": "abdomen",
+      "laterality": "left",
+      "contrast": null,
+      "view": null,
+      "guidance_action": null,
+      "guidance_object": null,
+      "timing": null,
+      "reason": null
+    }
+  }
+]
